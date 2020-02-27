@@ -1,0 +1,12 @@
+{
+  "name": "bw-spotify-song-suggester-1",
+  "version": "1.0.0",
+  "description": "Lambda Build Week Project",
+  "main": "index.js",
+  "repository": "https://github.com/alvinwalker314/bw-spotify-song-suggester-1",
+  "author": "silvodesigns <kevsilvo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
