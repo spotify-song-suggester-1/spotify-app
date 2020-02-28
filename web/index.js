@@ -1,6 +1,7 @@
 const express = require('express');
 
 const server = express();
+server.use(express.json());
 
 const port = 3000;
 
@@ -33,9 +34,26 @@ server.get('/api/users',(req, res)=> {
         }
         
     ];
-
+   
     res.status(200).json(users);
 });
+
+server.post('/api/users', (req, res) => {
+    res.status(201).json({url: '/api/users', operation: 'POST'});
+
+});
+
+server.put('/api/users/', (req, res) => {
+    res.status(200).json({url: '/api/users', operation: 'PUT'});
+
+});
+
+server.delete('/api/users/', (req, res) => {
+    res.status(204);
+
+});
+
+
 
 
 server.listen(port, () => {
