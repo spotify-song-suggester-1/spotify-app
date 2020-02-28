@@ -1,0 +1,740 @@
+,artist_name,track_name,track_id,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Judy Garland,Have Yourself A Merry Little Christmas,030mot3ZKR3oskfMsqDB2R,58,0.156,0.184,6,-14.82,1,0.0393,0.97,0.00458,0.26,0.107,180.887,162333,3
+1,Frank Sinatra,Saturday Night (Is The Loneliest Night In The Week),7GLmfKOe5BfOXk7334DoKt,54,0.561,0.335,9,-11.093,0,0.0499,0.84,1.52e-06,0.788,0.59,126.974,163000,4
+2,Frank Sinatra,Nancy (With the Laughing Face) - 78rpm Version,4Pnzw1nLOpDNV6MKI5ueIR,54,0.295,0.0826,1,-19.569,1,0.0367,0.984,0.000358,0.156,0.169,128.6,199000,3
+3,Frank Sinatra,Put Your Dreams Away (For Another Day),6kD1SNGPkfX9LwaGd1FG92,53,0.197,0.0546,1,-22.411,1,0.0346,0.95,0.276,0.152,0.1,90.15,186173,5
+4,Frank Sinatra,Night and Day,14Tgtsa8TG8D9OewIe91m2,34,0.169,0.147,2,-16.491,1,0.0336,0.906,1.19e-06,0.229,0.152,174.301,218093,3
+5,Frank Sinatra,I'm a Fool to Want You - 78rpm Version,3FLQXJfsKxY8aWmlFoNN2c,30,0.238,0.103,3,-19.696,0,0.0336,0.932,0.000898,0.109,0.13,88.458,175493,5
+6,Judy Garland,The Trolley Song,4vrjAkoiH5ec02zW6qZooM,30,0.57,0.436,9,-10.472,1,0.052,0.778,0.0,0.452,0.69,144.255,171533,4
+7,Judy Garland,Meet Me In St. Louis,0gRP7mwcJtXwKRBfyX2FB1,31,0.486,0.239,1,-12.487,1,0.0319,0.783,0.0,0.294,0.804,90.543,133027,4
+8,Frank Sinatra,You Do Something to Me,08QeNS5TcbtaKNxrJlwybb,36,0.495,0.228,3,-13.33,1,0.0686,0.834,1.29e-06,0.183,0.567,169.598,153093,4
+9,Frank Sinatra,Time After Time,56BUXGEQccDqL7ey5ES2gf,26,0.242,0.233,9,-14.782,1,0.0358,0.952,0.029,0.339,0.127,88.281,189267,4
+10,Frank Sinatra,The Birth of the Blues,47JWWDyclQT9w2dLzyqSRv,28,0.342,0.203,11,-15.306,1,0.0385,0.92,0.0,0.352,0.412,79.083,207627,4
+11,Frank Sinatra,The Brooklyn Bridge,1cD3rykh0Zk3y2YKO8LPaI,23,0.489,0.126,5,-17.121,1,0.0426,0.984,0.002,0.207,0.378,85.583,155373,4
+12,Frank Sinatra,The Song Is You,79SUGAKi2RqFIyydW8WL6J,23,0.229,0.117,10,-17.734,1,0.0355,0.966,1.68e-05,0.374,0.156,81.198,194707,3
+13,Frank Sinatra,All Of Me,44G3vprWyquCb0i6nDYJ4G,24,0.654,0.145,7,-11.718,0,0.0402,0.92,0.0,0.343,0.717,129.302,159693,4
+14,Frank Sinatra,I've Got a Crush on You (Duet with Frank Sinatra),4OYcd17qXbfz8oeOwpufXZ,22,0.469,0.0378,3,-21.116,1,0.0519,0.925,0.000202,0.7,0.331,139.47,194267,4
+15,Frank Sinatra,I Could Write a Book,3C8FX9XkjvslhnSC6okafB,21,0.339,0.159,0,-17.129,1,0.034,0.961,7.53e-06,0.413,0.312,115.43,161973,3
+16,Frank Sinatra,I'm Glad There Is You,1LJb4TFWAKEyy3iCyy4Gvq,18,0.26,0.0784,1,-20.361,1,0.0336,0.948,0.00153,0.125,0.163,87.017,185600,1
+17,Tara Bai,Ae Chand Na Itrana,3h4lA0YTMQ8Y7js8HOvhHV,19,0.563,0.161,8,-18.647,1,0.0654,0.996,0.949,0.132,0.714,127.86,168533,4
+18,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 1",6ypCBPVr2JOnseRsha8qk4,19,0.615,0.359,10,-15.461,0,0.956,0.491,0.0,0.135,0.521,72.893,703253,3
+19,Judy Garland,The Boy Next Door,11K5HC6FtCVQajGBz9pWhm,18,0.286,0.209,0,-14.017,1,0.0339,0.946,0.0,0.166,0.231,130.326,184400,5
+20,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 7",4yKVruLfD4H1QDgHMbP658,17,0.703,0.355,10,-15.962,0,0.941,0.437,0.0,0.315,0.513,106.698,401240,4
+21,Frank Sinatra,April in Paris,0M7YHZJfKplYyWOu9OFcWo,18,0.275,0.0701,10,-18.327,1,0.0361,0.941,0.000101,0.193,0.128,72.751,163067,5
+22,Frank Sinatra,Body and Soul,1IvmvR5K0jQIUWOgV0TY9h,16,0.224,0.158,7,-15.916,0,0.0414,0.931,8.05e-05,0.204,0.332,44.467,203600,4
+23,Judy Garland,I Got Rhythm,2wow4hkuzIPuTU1kAkNLUl,15,0.544,0.34,3,-12.66,1,0.0502,0.927,6.55e-05,0.667,0.627,116.958,169893,4
+24,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 12",3n7t17luiSg3ehaGCyiuZ5,17,0.712,0.272,5,-16.59,0,0.929,0.388,3.21e-06,0.373,0.519,110.772,74973,4
+25,Frank Sinatra,Laura,3q3cb1Zb7x859njHAd3gfk,16,0.112,0.1,10,-20.47,1,0.0392,0.951,0.0108,0.131,0.0909,171.222,198040,1
+26,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 3",6mYf6njXVAbIDcXLsl2nk3,16,0.695,0.29,3,-17.177,1,0.961,0.559,0.0,0.239,0.366,79.48,95200,1
+27,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 9",6yvuCeMEImZ6yUfxb0E9KR,16,0.627,0.337,10,-16.269,0,0.958,0.421,1.42e-06,0.191,0.483,69.262,719187,4
+28,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 13",0AVd4v4ly42nfJqYbzj1OI,16,0.617,0.335,10,-16.158,0,0.959,0.388,0.0,0.243,0.412,75.885,413147,3
+29,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 16",0K9pzedgq0hbPGrYtmvXrB,16,0.626,0.291,3,-14.409,0,0.954,0.494,3.77e-06,0.331,0.354,170.743,79520,4
+30,Frank Sinatra,Sweet Lorraine - 78rpm Version,3iAXJ9SiFHCeXoPZKFrqA3,16,0.638,0.267,8,-14.915,1,0.152,0.971,0.121,0.131,0.731,118.197,188067,4
+31,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 10",4SdFHT0oni6irVvXNM7avj,16,0.668,0.303,10,-16.968,0,0.952,0.372,0.0,0.12,0.496,96.1,409907,3
+32,Frank Sinatra,The House I Live In,5pzJv7wxk9DcV4qRmoiTqR,15,0.241,0.131,0,-13.725,1,0.0414,0.964,0.00638,0.462,0.197,178.617,197467,3
+33,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 14",6XVLyXLWkgeFbaVVWEDbmx,15,0.623,0.325,1,-16.651,1,0.959,0.247,0.0,0.103,0.559,81.879,503147,1
+34,Judy Garland,But Not For Me,6oMMwbf4MOeahhOvy4zJFo,13,0.188,0.214,8,-13.848,1,0.0338,0.969,2.06e-06,0.09,0.231,91.496,187560,3
+35,Judy Garland,Skip To My Lou,0wlscRFAnHBORnGqXFD3qq,16,0.711,0.322,4,-11.751,0,0.109,0.738,0.0,0.0961,0.768,109.414,178800,4
+36,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 11",2MxmtqR1x0ncIY1KDFm5qM,15,0.621,0.285,10,-17.761,0,0.961,0.251,0.0,0.24,0.498,79.022,266187,3
+37,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 18",3iRFxnAMjzD6NjrTrRdmVs,15,0.712,0.285,10,-16.893,0,0.947,0.39,0.0,0.151,0.565,130.823,652067,1
+38,Judy Garland,Boys And Girls Like You And Me,3w8hYFExK1sFskwqWBzN35,16,0.159,0.182,0,-13.956,1,0.0341,0.964,1.93e-05,0.35,0.211,84.403,189160,4
+39,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 17",6B4aQYxOSGZSDRu7jVuRXY,15,0.687,0.314,10,-16.822,0,0.957,0.298,0.0,0.178,0.439,80.541,581373,4
+40,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 15",6Y6a080oWnO3XD8oOEFzos,15,0.698,0.356,10,-15.782,0,0.951,0.273,0.0,0.368,0.563,105.185,493040,1
+41,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 22",0tBryHXHGSljjMIv7fiHBJ,14,0.707,0.31,10,-16.012,0,0.949,0.318,0.0,0.327,0.592,133.058,365893,3
+42,Frank Sinatra,I Get a Kick Out of You,3CUukIT0JY1Zc4Ug7Tg0D9,12,0.33,0.166,5,-13.746,0,0.0478,0.982,0.000205,0.761,0.482,87.654,236733,3
+43,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 21",4AWALkGzPGwaHZs0IuE0X4,14,0.715,0.337,1,-16.555,1,0.943,0.346,0.0,0.202,0.519,124.168,524133,3
+44,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 30",4mg58Ee1cLRToF2hKR9WyE,14,0.7,0.243,10,-15.309,1,0.941,0.398,1.74e-05,0.487,0.266,108.765,93213,3
+45,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 19",5Z4VHu6udffmRw0EfXBxJY,14,0.713,0.294,10,-16.512,0,0.947,0.399,0.0,0.205,0.674,115.653,417467,3
+46,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 20",5nbMqw1CIMmqnr6HNIBh0z,14,0.706,0.323,10,-15.972,0,0.953,0.389,0.0,0.226,0.518,132.39,504120,3
+47,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 26",052TxRcwKcelPBMhvEATAT,13,0.698,0.311,10,-15.41,0,0.94,0.345,0.0,0.35,0.563,105.882,595360,3
+48,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 34",0KFCwMU3dtmW3bl4oj2GTV,13,0.702,0.278,10,-17.589,0,0.95,0.417,0.0,0.355,0.499,132.955,619573,5
+49,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 49",39w5NxQhB0Go4HrTV3D5ar,13,0.669,0.299,10,-17.38,0,0.952,0.416,2.04e-06,0.276,0.497,76.005,661907,3
+50,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 28",3h7v5ZITqlEgDPgnrovk6f,13,0.649,0.317,10,-15.794,0,0.952,0.319,0.0,0.226,0.594,77.522,417053,3
+51,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 31",5A8SLq9UgCSwzZUUtl0Os5,14,0.703,0.324,10,-15.986,0,0.939,0.351,1.31e-06,0.536,0.441,106.086,696413,5
+52,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 24",5BQfSG9b9O2Ltq8GBdPIgm,13,0.704,0.306,10,-15.826,0,0.941,0.293,0.0,0.34,0.509,133.708,438573,3
+53,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 33",5ZXuRQYbyUqUvuu9drXj0q,13,0.637,0.317,10,-17.0,0,0.956,0.398,0.0,0.738,0.44,85.753,659960,3
+54,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 25",5gT85D8gAAvIBkGjMLkmUY,13,0.675,0.303,10,-17.352,0,0.959,0.341,0.0,0.201,0.46,80.153,556347,3
+55,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 32",623FoP93ywJb1yrdZBvYu3,13,0.629,0.276,10,-17.067,0,0.961,0.366,0.0,0.456,0.526,84.606,586160,3
+56,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 23",7yBoFgEmf9AjlEhs9ZJRLh,13,0.701,0.253,10,-17.031,0,0.95,0.226,0.0,0.281,0.45,132.524,385960,5
+57,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 37",14wNlV4xnWDj68AzRdkH4c,12,0.68,0.253,3,-18.123,0,0.95,0.375,0.0,0.686,0.381,100.867,478640,3
+58,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 42",1KlbRTv8Hn660kWiUQhUtr,11,0.635,0.309,10,-17.134,0,0.96,0.354,0.0,0.26,0.537,85.731,545707,4
+59,Frank Sinatra,Begin the Beguine,2GxdhVvxPEM8MwivKsr6xO,12,0.361,0.134,9,-16.557,1,0.0377,0.99,0.0991,0.168,0.205,124.183,232400,4
+60,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 41",2Lxw3qkGSwew8FVLymqfyk,12,0.7,0.33,10,-16.653,0,0.945,0.444,1.12e-06,0.736,0.52,105.003,470000,5
+61,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 43",2P3PFmBEEJB6GUBBCCJhLE,11,0.71,0.322,10,-17.102,0,0.946,0.501,0.0,0.697,0.572,130.691,471893,5
+62,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 39",32e5yDw4BG8Idk0ymPXwb8,12,0.718,0.28,6,-16.815,1,0.948,0.442,0.0,0.405,0.562,126.979,412107,4
+63,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 29",3VmDpbMYjj3ptPyBhL8CAD,12,0.711,0.282,10,-15.812,0,0.952,0.404,0.0,0.364,0.559,79.424,317707,4
+64,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 38",3rFF5BhpfKWnNfm3te7x9y,12,0.689,0.29,1,-16.526,1,0.952,0.458,0.0,0.216,0.575,102.494,440653,3
+65,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 36",4ocJfB0XCkllV9xas7wnbB,12,0.691,0.279,10,-17.526,0,0.94,0.327,0.0,0.409,0.372,103.784,492453,3
+66,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 57",54ofeA36BQlP8VIGAhRq0F,12,0.659,0.128,3,-19.02,1,0.935,0.645,0.000273,0.326,0.0984,143.128,64213,5
+67,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 40",5FjABUlFnRylzY3GsKbW3e,12,0.642,0.318,10,-16.469,0,0.962,0.478,0.0,0.431,0.556,88.446,509613,3
+68,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 45",5UGJq6Zwtvjar061dXkgV6,11,0.689,0.277,10,-16.671,0,0.949,0.342,0.0,0.2,0.557,102.129,444080,4
+69,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 35",5XhTqt659adn8WzDCWexUF,12,0.681,0.295,10,-16.893,0,0.945,0.467,0.0,0.777,0.497,99.947,612733,3
+70,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 27",5egOBXZhi6ELYWKvGwSMJE,12,0.684,0.284,10,-16.29,0,0.943,0.253,0.0,0.204,0.511,101.003,367107,3
+71,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 48",5jUIkdft9tF9zwQNrU7qC3,12,0.686,0.24,1,-17.9,1,0.947,0.539,0.000181,0.343,0.258,101.576,137840,1
+72,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 46",5xU3L2gf59i9KJPmLTQxe1,11,0.698,0.272,10,-17.602,0,0.952,0.408,0.0,0.219,0.522,105.797,681920,3
+73,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 62",06Eh3QGlSiROaESLGB0ouG,10,0.707,0.322,10,-16.543,0,0.946,0.485,0.0,0.181,0.505,108.717,649493,4
+74,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 67",0LcATB5GQTHpYDDqASVoEr,11,0.716,0.314,3,-17.18,0,0.91,0.416,0.0,0.319,0.464,114.798,82520,5
+75,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 47",0YU7uWcxK9hXql8mIb5HS4,11,0.631,0.267,10,-16.407,0,0.958,0.469,0.0,0.133,0.577,168.665,511320,4
+76,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 63",1Yb1Aco79YzBJ4CVj1QIsV,10,0.617,0.326,10,-16.792,0,0.96,0.44,0.0,0.353,0.488,76.937,485173,5
+77,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 50",1bsQgxJNp9MrmUwYzf8EMz,11,0.698,0.275,1,-17.489,1,0.941,0.367,0.0,0.299,0.518,104.985,592000,5
+78,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 59",2cjUUYzoNKkbnqMVfKaYzw,10,0.711,0.282,10,-17.986,0,0.939,0.414,1.46e-06,0.342,0.446,111.072,705773,4
+79,Frank Sinatra,You'd Be So Nice to Come Home To,2gJVoHveY5V4tqsgXnzC6p,9,0.313,0.281,8,-12.825,1,0.0378,0.981,0.0609,0.745,0.432,96.264,137267,3
+80,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 44",3QtYgQ9gQ1JwOq4e5Sqy2f,11,0.711,0.257,1,-18.153,1,0.946,0.352,0.0,0.252,0.556,126.099,332373,3
+81,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 53",3iARPbreN6DZFsGUljTHmA,10,0.714,0.29,1,-17.814,1,0.943,0.405,0.0,0.263,0.455,126.561,450907,4
+82,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 54",3qqOPp0bv1wFivQHpGFW9D,10,0.714,0.317,10,-16.815,0,0.93,0.492,1.92e-06,0.463,0.551,128.291,455000,3
+83,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 51",4AtoJSS6EBSyh49HANfmTG,11,0.622,0.26,10,-17.287,0,0.959,0.368,0.0,0.14,0.51,80.291,601053,3
+84,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 52",4HaLjOVMtz1tGiJpj5ahGC,11,0.748,0.271,1,-17.086,1,0.95,0.423,0.0,0.15,0.514,99.644,506053,3
+85,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 60",4Hfm810lqTO3x3bK2yllx6,10,0.71,0.275,10,-18.333,0,0.942,0.487,1.09e-06,0.303,0.467,127.893,360773,5
+86,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 55",4KOvrZP4cBVL0ganhydFvV,10,0.606,0.334,10,-16.418,0,0.96,0.516,0.0,0.189,0.571,54.409,541427,4
+87,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 61",4ViYopIPJhKFP2Wsf5hq3j,10,0.669,0.301,10,-18.599,0,0.955,0.462,8.73e-06,0.255,0.364,82.88,395880,3
+88,Frank Sinatra,I Am Loved,4jPiuYGNJw4ldcg8M5PheR,10,0.297,0.145,11,-16.715,1,0.0379,0.965,0.00049,0.391,0.188,124.037,145533,3
+89,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 56",533Cqfn17LSB0xeMb8RVJq,10,0.653,0.304,10,-16.829,0,0.953,0.491,0.0,0.31,0.507,83.387,641840,3
+90,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 58",5qwILk7nkMTpwQZi01XeMx,10,0.688,0.316,10,-16.534,1,0.948,0.488,0.0,0.271,0.527,102.074,613413,4
+91,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 68",69mBErWVJGdOiJBqHojPT9,10,0.666,0.362,10,-19.601,0,0.953,0.11,0.0,0.301,0.535,146.465,161400,5
+92,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 64",6udl1TxUesV4QDsf7trTed,10,0.627,0.315,10,-16.913,0,0.954,0.518,0.0,0.0708,0.57,172.608,655493,3
+93,Judy Garland,Embraceable You,7EbCYqdaNTl5fBU6rOzHlY,9,0.334,0.204,1,-12.578,1,0.0314,0.918,0.0,0.182,0.354,103.859,191560,5
+94,Frank Sinatra,I Love You,7JBIcZQ5fSWzY25HpT7NpL,10,0.337,0.292,7,-12.12,0,0.0486,0.904,0.00433,0.799,0.19,118.906,139400,4
+95,Frank Sinatra,You Don't Remind Me,0myKUjAqkq7ChI1Fm8hd9c,7,0.3,0.0906,10,-19.32,1,0.0368,0.968,0.0833,0.13,0.154,60.756,169533,4
+96,Frank Sinatra,Why Can't You Behave?,1IOa2vyO8uq9njbNaqtVae,9,0.473,0.0293,6,-20.881,1,0.0388,0.976,1.87e-05,0.121,0.227,70.165,198333,1
+97,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 66",1L52MR2nrZSu0jTErJwHdr,9,0.709,0.312,10,-18.187,0,0.934,0.396,0.0,0.187,0.464,112.025,325480,4
+98,Frank Sinatra,Don't Fence Me In,27ECQ7Ebu2S4YB4nUqffUL,10,0.614,0.363,2,-10.418,1,0.0763,0.962,0.00208,0.902,0.746,136.958,153573,3
+99,Frank Sinatra,Just One of Those Things,3aHJlCoW89sHYzj1a89fpR,8,0.426,0.263,11,-12.946,0,0.0348,0.989,0.022,0.163,0.501,110.79,84960,4
+100,Mohammed Rafi,Mere Mitwa Mere Meet Re,3cADMtkx8SpKKUHnXysjld,12,0.448,0.416,7,-12.886,1,0.0371,0.914,0.0,0.132,0.599,154.948,224760,4
+101,Frank Sinatra,I Concentrate On You,4WR68RNEs99nRhJr2muVCQ,8,0.23,0.148,1,-14.603,1,0.0351,0.888,0.0363,0.0588,0.188,85.766,183467,4
+102,Frank Sinatra,Easy to Love / I've Got You Under My Skin,69gmxWCmQgC4C43KLO6t8W,9,0.367,0.287,3,-11.924,1,0.0508,0.972,0.000137,0.71,0.345,131.414,244933,4
+103,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 65",6dRxhpkLHAe2tWgNubNIOm,9,0.704,0.301,10,-17.862,0,0.951,0.417,0.0,0.0608,0.524,132.36,533720,5
+104,Frank Sinatra,Cherry Pies Ought to Be You (with Rosemary Clooney),6eNRJ9yrEg4o6ZxWVhAz8a,9,0.657,0.199,10,-14.286,1,0.133,0.933,0.0,0.0658,0.693,80.723,141160,5
+105,Frank Sinatra,Why Shouldn't I?,7LKi2MAYYF2k3hfF8lsJSj,9,0.32,0.115,8,-18.322,1,0.0389,0.97,0.000225,0.191,0.167,78.149,172707,3
+106,Frank Sinatra,So In Love,7yjQFENi3lYKHjl3cUJtBZ,8,0.271,0.175,6,-11.598,1,0.0366,0.98,0.116,0.718,0.132,116.154,167733,3
+107,Johann Sebastian Bach,"Cappricio in B-Flat Major, BWV 992 ""On the departure of his most beloved brother""",067ZnhVl9zX2IiHTCcxzkG,8,0.355,0.126,10,-19.63,1,0.0572,0.995,0.907,0.125,0.132,79.263,674907,4
+108,Mickey Rooney,Could You Use Me?,0iJjC6AAghe3sgtI4uINMR,5,0.528,0.161,1,-15.801,1,0.0573,0.859,0.0,0.215,0.587,134.312,180840,4
+109,Lester Young,Ghost Of A Chance - Take 2,0wjuByGrqgc90TeF8eUvNB,6,0.413,0.108,7,-14.276,1,0.0643,0.983,0.947,0.0948,0.331,178.567,201307,3
+110,Judy Garland,Bidin' My Time,144hylekIUK5w0dEwCQ7fq,5,0.459,0.127,0,-13.127,0,0.0472,0.76,0.0,0.0643,0.442,100.512,185027,4
+111,Lata Mangeshkar,Mere Mitwa Mere Meet Re - Duet,2XkbwxY8qlq7plk672Z7wR,5,0.348,0.782,0,-4.703,1,0.0477,0.865,0.000639,0.169,0.368,90.408,219534,4
+112,Lester Young,Indiana - Take 2,302tJ4hQ96iMTruWZ1RUzI,6,0.457,0.329,8,-14.383,1,0.108,0.946,0.955,0.115,0.791,185.058,175800,4
+113,Mickey Rooney,Treat Me Rough,3kvzjsuUgRJJxY1wCqwOsg,6,0.686,0.251,8,-14.717,1,0.0972,0.912,4.7e-06,0.244,0.677,123.071,181493,4
+114,George Gershwin,Rhapsody in Blue,3s5Ama1N19IOEZikZRMAVw,3,0.291,0.198,9,-19.046,1,0.0349,0.981,0.774,0.12,0.167,81.775,767960,4
+115,Francisco Canaro,Soñar y Nada Mas - Remasterizado,4zAvosNBDBwOUjCCDCOLSt,13,0.57,0.275,1,-12.992,0,0.0636,0.954,0.122,0.165,0.664,92.709,194333,3
+116,Lester Young,Salute To Fats - Take 5,7iAMu4srv51JvNsGB3uCjW,4,0.612,0.282,0,-11.781,1,0.0443,0.945,0.908,0.0819,0.565,87.36,179667,4
+117,Rina Celi y Orquesta,Bugui Bugui,01Ch7527JA3GHtkFVjhUDr,0,0.738,0.495,5,-9.16,0,0.103,0.846,0.00555,0.193,0.709,100.353,120434,4
+118,Tara Bai,Awaz Do Insaaf Ko,01yhLYW03XDnoQpciqeHvO,0,0.458,0.153,3,-17.759,1,0.0432,0.994,0.874,0.107,0.613,76.492,197133,4
+119,Master Ebrahim,Hawa Mein Udta Jaye - Instrumental,02f3RHZlSsILj4H5EHvuxL,0,0.525,0.353,11,-12.795,1,0.0623,0.984,0.889,0.136,0.915,96.107,191796,4
+120,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Der Ball begehrt nach seiner Königin - Live",032zgSb3NYohutw3694TDZ,0,0.272,0.227,7,-21.216,1,0.144,0.968,0.00178,0.302,0.309,81.516,153533,4
+121,Hemant Kumar,Din Jodi Holo Abasan,04VQOoknXMCk3XFybEjCUH,0,0.537,0.132,7,-12.574,1,0.0267,0.987,1.75e-05,0.21,0.351,84.235,141173,3
+122,Manju,Do Dilon Ko Yeh Duniya,057DINUqlGJGNWPi2bRqZa,0,0.593,0.0897,6,-20.519,1,0.0683,0.995,0.935,0.108,0.631,65.178,245867,3
+123,Kalyani,Fasana Kisi Ka Kahani Kisi Ki,05mqyGktysPYqTLaYVDAq5,0,0.613,0.142,5,-11.572,1,0.317,0.995,0.709,0.197,0.655,73.253,179191,4
+124,Umm Kulthum,Qalo Ahaba Al Qas,06J4JvbYxFlhZxl902sGJo,0,0.268,0.0472,10,-20.45,1,0.0548,0.993,0.41,0.36,0.153,66.222,223518,3
+125,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Hab' ich geträumt? - Live",08BK5uQOOHgEkuszeKdF7P,0,0.424,0.157,9,-19.762,1,0.0744,0.984,3.06e-05,0.323,0.291,92.974,206667,4
+126,Memphis Slim,Everyday I Have the Blues,08dATSKGXhGASauLBtCoO8,0,0.799,0.559,0,-4.033,1,0.0353,0.882,0.381,0.0996,0.696,106.396,166693,4
+127,Franklin Delano Roosevelt,On the Fall of Rome - 06 05 1944,09VYYPFYEIOyEFCqJuCSR4,0,0.677,0.169,8,-17.673,1,0.877,0.851,0.0,0.218,0.432,100.889,905392,3
+128,Surendra,Prem Bina Sab Soona Hota,0AHB6ItmBGn6n8x1J3ZZcB,0,0.601,0.103,9,-13.356,1,0.141,0.995,0.359,0.326,0.641,71.913,198864,5
+129,Hallé,Symphony No. 3 in C Major: Epilogue (Poco lento),0BQjzKjDU2id8Qk9Rylq13,0,0.0777,0.0684,0,-27.166,1,0.0387,0.946,0.951,0.132,0.0374,80.475,429507,4
+130,Alberto Gomez,En Esta Tarde Gris,0Bj1JU6q587AVahgYnQ3jh,0,0.277,0.089,7,-15.251,1,0.0496,0.973,0.00873,0.267,0.235,76.391,218173,3
+131,Coleman Hawkins,Wrap Your Troubles in Dreams,0ByvnaEzcemAEci4vqAQy5,0,0.602,0.328,8,-8.375,0,0.0626,0.92,0.807,0.107,0.638,74.562,172437,4
+132,Lata Mangeshkar,Madhugandhe Bhora Mridu Snigdhachhaya,0D3j4p5B1doBPlGB8FKWB7,0,0.266,0.0881,11,-18.643,1,0.0476,0.995,0.93,0.102,0.245,68.005,212040,4
+133,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: ""Matteo!"" - ""Zdenko! Du! Bist du allein?"" - Live",0DCIXD4wUKWpYInSz05i8s,0,0.457,0.178,2,-20.146,1,0.12,0.905,0.0,0.28,0.198,117.986,259867,3
+134,Tara,Ankhon Mein Ankhen,0DhuTDUirJ1PgIz8LE5R6g,0,0.44,0.161,11,-19.553,1,0.103,0.9,0.0,0.36,0.414,137.159,203685,4
+135,Francisco Canaro,Todo Es Mentira - Remasterizado,0FVH9hZ1Xn1jgl0ehI5wjh,0,0.569,0.0991,2,-13.946,1,0.101,0.994,0.717,0.128,0.539,125.484,179573,4
+136,Snehprabha Pradhan,Pardesi Chala Jaye,0GTlDAUeLAUpLgHVyd0R5p,0,0.616,0.318,8,-9.2,1,0.129,0.993,0.0521,0.355,0.656,130.763,190117,3
+137,Carolina Cardoso de Menezes,Maria Elena,0HbAqqvHDhJfNiTHE9otUV,0,0.505,0.22,8,-15.472,0,0.0373,0.988,0.929,0.133,0.444,62.249,190296,4
+138,Krishna Chandra Dey,Kisi Majboor Ke Honthon Ke Tu,0IeRwFjzchne5vqXIIpIjK,0,0.388,0.186,6,-9.459,1,0.0624,0.986,0.000151,0.103,0.235,100.992,224862,4
+139,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": III. Menuetto: Allegretto",0Is6TOm8ClD5LZsBFELWnC,0,0.297,0.118,7,-15.138,1,0.0355,0.898,0.467,0.435,0.243,136.927,312360,3
+140,Malti,Kaise Nibhegi Preet Sajni,0J0NBplNFWDzEjkvlkAG6x,0,0.438,0.23,10,-10.427,1,0.118,0.994,0.543,0.2,0.553,71.081,203111,5
+141,Master Ebrahim,Na Jane Yeh Chanda - Instrumental,0JKiczL1f1URaubzChwGqJ,0,0.394,0.472,10,-10.637,1,0.0779,0.928,0.916,0.126,0.958,214.451,191404,4
+142,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): O wär' ich schon mit dir vereint",0Ku3PTU97oEaZuzJok8zla,0,0.365,0.214,0,-14.164,1,0.0693,0.973,0.00133,0.102,0.401,92.424,212267,3
+143,Francisco Canaro,Besame Mi Amor - Remasterizado,0LaAlmqijk1SoNkahhT1fP,0,0.418,0.38,8,-9.07,1,0.117,0.986,0.676,0.192,0.902,64.733,155507,4
+144,Alberto Gomez,Uno,0MgX1o8V1H2WKea1xgJgiI,0,0.455,0.0932,2,-15.888,0,0.136,0.981,9.1e-05,0.127,0.346,74.214,231507,4
+145,Lata Mangeshkar,Vahate Sukhache Vare,0OaUFh1CGr2HPYzskc6xVW,0,0.496,0.252,0,-11.99,1,0.0685,0.974,0.144,0.212,0.579,128.297,184680,4
+146,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Mein Elemer! - das hat so einen sonderbaren Klang - Live",0PC2DuMNCLKyceritAaSo8,0,0.155,0.201,11,-19.741,0,0.057,0.972,0.00018,0.677,0.0637,81.155,563240,1
+147,Francisco Canaro,El Gallo - Remasterizado,0PG3OrCUNuzjJNEhtLwZKF,0,0.758,0.308,2,-10.968,1,0.43,0.987,0.355,0.0955,0.754,142.562,174320,4
+148,Friedrich Kayssler,Altdeutsches Rätsel,0Sdyk8tPF32f7UkZSQU3FJ,0,0.743,0.0282,0,-24.323,0,0.46,0.883,0.0,0.163,0.376,98.718,74442,4
+149,Ramesh Gupta,Yehi Prem Ki Reet Re Panchhi,0TVTDsFF5ELpZd9YnltOF1,0,0.397,0.208,10,-9.487,0,0.0489,0.991,0.722,0.108,0.312,71.839,207418,4
+150,Master Ebrahim,Yeh Chand Kal Jo - Instrumental,0UoqERQuGV0e1p7y6Mlv2I,0,0.647,0.472,7,-10.582,0,0.0509,0.949,0.836,0.122,0.882,90.797,187408,4
+151,Francisco Canaro,Rosa de Tango - Remasterizado,0XCZfzmL7fhoYcyCjweGCP,0,0.536,0.394,7,-10.106,0,0.0388,0.98,0.758,0.137,0.71,128.883,160600,4
+152,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Bin nicht in der Lage, länger zu warten! - Live",0XKzp1fTdKXxDowHqk6nIg,0,0.384,0.192,6,-20.262,1,0.0715,0.985,0.000105,0.495,0.151,107.687,915093,4
+153,Lester Young,Exercise In Swing - Take 1,0Y9PHvYp6y2CP5ztEdzaPB,2,0.729,0.61,0,-9.708,1,0.0314,0.791,0.909,0.0599,0.956,131.215,182907,4
+154,Khursheed Bano,Mujhe Shikwa Nahin,0YBLdCrbasbEgHKNjYhBuL,0,0.385,0.231,5,-9.227,0,0.048,0.993,0.0185,0.259,0.467,92.432,196786,3
+155,Isaura Garcia,Velha Amizade,0YbXPsDz3KrKhYJDbN5ZHA,1,0.453,0.203,7,-10.556,1,0.0344,0.99,0.0121,0.267,0.544,125.818,177800,4
+156,Zohrabai Ambalawali,Mere Jubna Ko Dekho Ubhar Papi,0YtfBS1AR4nk0mssmYpnFO,0,0.512,0.167,9,-15.173,1,0.133,0.996,0.877,0.378,0.771,60.227,164213,4
+157,Master Ebrahim,Yeh Hawaen Yeh Sama - Instrumental,0b6ye6hUnH6XcwoxhSASOR,0,0.578,0.301,4,-11.372,1,0.078,0.992,0.918,0.257,0.96,107.882,211853,4
+158,Memphis Slim,Country Girl,0bl145dQRjzy64yyBKF6TG,0,0.756,0.553,7,-5.012,1,0.0485,0.925,0.733,0.211,0.943,122.715,168587,4
+159,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Es schlägt der Rache Stunde",0cdBTf0ulwTDXigA5xX2f4,0,0.396,0.433,2,-12.137,1,0.0821,0.859,0.297,0.137,0.359,60.662,67693,4
+160,Manorama,Bade Saba Machal Rahi,0d8eCD9KaANSe9tctDU7al,0,0.435,0.184,9,-7.874,0,0.0424,0.992,5.43e-05,0.291,0.332,146.968,199200,3
+161,Pahari Sanyal,Aaj Na Phool Lagao Sakhi,0dRF3iRpxu590IzrSBUQ58,0,0.705,0.172,1,-13.22,1,0.0603,0.993,0.0889,0.379,0.793,116.813,170620,4
+162,Vijay,Ud Jaoon Main Sajan Re,0ej4Cnhsnv94LqS77cX0fg,0,0.712,0.218,3,-9.925,1,0.096,0.995,0.871,0.33,0.839,89.682,163550,3
+163,Zohrabai Ambalawali,Aai Diwali Aai Diwali,0f05sDYSalMWhlAkKWj954,0,0.68,0.283,6,-9.835,0,0.0638,0.93,0.00694,0.0632,0.887,79.689,150333,4
+164,Dilú Melo,Fiz a Cama na Varanda,0gKZaPq0tdup5PzLnBZtL6,0,0.705,0.0176,0,-21.87,1,0.071,0.994,0.000141,0.199,0.209,115.9,174428,4
+165,Francisco Canaro,Uno - Remasterizado,0gQS6i19fmsT0qIjzC8efa,0,0.544,0.251,7,-11.849,1,0.0706,0.977,0.203,0.114,0.4,125.393,207693,4
+166,Zohrabai Ambalawali,Raat Ki Malka Ban Than Ke,0izlKRPF1d1rs7ylcmZMjb,0,0.499,0.22,7,-15.254,0,0.0745,0.995,0.86,0.198,0.542,128.986,221848,3
+167,Hemant Kumar,Priyo Bale Jare,0j54bBWR4DhdouqTw0LbCA,0,0.354,0.241,6,-15.91,0,0.0548,0.988,0.965,0.108,0.768,80.633,173347,3
+168,Alberto Gomez,Isla de Capri,0jbkHC6qbYO3BgIh9IFYGd,0,0.661,0.107,9,-19.653,0,0.123,0.988,0.26,0.0996,0.38,117.561,182507,4
+169,Master Ebrahim,Thahr Zara O Jane Wale - Instrumental,0kZ7RvfxgB3O5HL1gAGauS,0,0.58,0.502,9,-9.9,1,0.0533,0.983,0.815,0.222,0.966,215.692,201197,4
+170,Sharada,Main To Tadpaoongi,0kdMjg5fsLpib1szjleXvV,0,0.558,0.129,10,-10.751,0,0.178,0.995,0.524,0.138,0.795,63.947,169070,4
+171,Isaura Garcia,De Conversa em Conversa,0m8di63x4NMYa03tCaJvFY,0,0.598,0.429,8,-11.116,1,0.0412,0.99,0.00707,0.379,0.614,83.899,167760,4
+172,Rewa Shankar,Dheere Dheere Chal Tangewale,0ndnVx3ki2svonyQPokapF,0,0.867,0.387,8,-9.207,0,0.36,0.993,0.00168,0.146,0.882,111.903,178602,4
+173,Shankar Rao Vyas,Meri Bibi Ka Letter Aaya,0ocxU0KdeY6XHSJ6dlHS5e,0,0.73,0.202,9,-11.442,1,0.474,0.996,0.712,0.175,0.726,74.124,205198,4
+174,Dhirendrachandra Mitra,"Holi Khelibe Giridhari, Pt. 1",0onZga5Wq3uMV7IQxQds7l,0,0.38,0.274,2,-13.356,1,0.133,0.97,0.723,0.161,0.707,78.084,207840,4
+175,Richard Strauss,"Horn Concerto No. 2 in E-Flat Major, TrV 283: III. Rondo",0pdlHDRSfXliCSI69G3LC4,0,0.301,0.269,3,-17.3,1,0.0443,0.948,0.538,0.133,0.37,102.991,318027,3
+176,Bharati Devi,Sujhe Nahin Dagariya Jeevan Ki,0qtHpycdSOvz5mTBmMeNge,0,0.388,0.112,9,-14.733,1,0.111,0.992,0.000287,0.303,0.316,56.076,182137,4
+177,Surendra,Yehi Fikr Hai Sham Pichhle Savere,0rn8WQrU5bdH7XLgM0YyaT,0,0.45,0.423,4,-13.899,1,0.073,0.955,0.777,0.283,0.781,85.186,133133,4
+178,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Nun sprecht, wie gings?",0szNcOtscrGusDTFd4IPQB,0,0.497,0.185,7,-16.04,1,0.0912,0.967,0.00902,0.17,0.252,96.932,132360,4
+179,Isaura Garcia,Sofres Porque Queres,0u8y4sxAG4l6L0P1gLDrXc,0,0.485,0.316,3,-10.26,1,0.0328,0.969,0.00154,0.145,0.608,73.802,183373,4
+180,Zohrabai Ambalawali,Ankhiyan Milake,0ubyjXvuvjiaK7gyEgC1hw,2,0.641,0.42,0,-8.485,1,0.0415,0.852,9.69e-06,0.0929,0.88,114.436,166160,4
+181,Lester Young,Basie English - Take 2,0ue1v6c48vZR9zgFg7tTQz,3,0.782,0.496,8,-9.481,1,0.0444,0.823,0.951,0.0653,0.899,110.167,183160,4
+182,Ted Nash,Annie Laurie,0wSNVDSL9Z3RY2WkP6BLp0,0,0.579,0.415,11,-7.953,0,0.0426,0.992,0.959,0.258,0.715,130.175,175045,4
+183,Charlie Ventura,Big Deal,0ytVj8uG122UvHuOGY3R3A,0,0.67,0.459,11,-4.896,1,0.0426,0.95,0.921,0.114,0.814,91.635,179331,4
+184,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 2",10XtBtWlcAY05YlSqFwd7A,18,0.705,0.32,3,-16.708,0,0.943,0.415,0.0,0.159,0.356,105.614,433800,3
+185,Master Ebrahim,Main Hoon Bharat Ki Naar - Instrumental,11CskEOu5EOn7oakRwt0Jh,0,0.583,0.391,11,-13.015,0,0.0499,0.978,0.874,0.111,0.933,67.588,190046,4
+186,Leela Bai,Mat Josh Men Aa Tu Hosh Men Aa,11tbdjA0CzMCaGaptJ8Lwj,0,0.64,0.333,1,-9.636,1,0.0423,0.991,0.000497,0.63,0.796,120.844,163840,4
+187,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Euch werde Lohn in bessern Welten",12IOSYn7qL7scE7ySPWqMt,0,0.35,0.238,9,-16.974,1,0.0453,0.982,0.0678,0.439,0.331,112.979,341907,4
+188,Francisco Canaro,La Naranja Nació Verde - Remasterizado,14Qab4sqldKBjoh5rjkZjX,0,0.598,0.235,4,-13.251,1,0.409,0.983,0.865,0.109,0.944,111.032,169013,4
+189,Rina Celi y Orquesta,Tarde de Fútbol,14WyogyRazl4OpAl9uCwhn,0,0.824,0.446,3,-11.772,1,0.0772,0.983,0.2,0.167,0.909,119.597,158668,4
+190,Zeenat Begum,Raaten Na Rahin,15cZZgDOitsCjMcA8fldQf,0,0.582,0.114,1,-15.268,0,0.0577,0.992,9.71e-06,0.228,0.605,81.603,175386,3
+191,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Jetzt, Schätzchen, jetzt sind wir allein",16vYKnyXhUcE4nu96vjAzG,0,0.499,0.279,9,-13.345,1,0.119,0.966,0.00175,0.194,0.511,94.352,262507,4
+192,Francisco Canaro,El Tropero del Amor - Remasterizado,177NO4bKV3x8BRJBzCDV8H,0,0.582,0.0333,7,-18.314,1,0.127,0.994,0.913,0.124,0.712,126.799,187373,4
+193,Noor Jehan,More Sajana Aake Daras Dikha,17b57A4qlVrWTY6hJmXacU,0,0.431,0.201,3,-15.484,1,0.0432,0.989,0.934,0.119,0.338,137.357,199853,3
+194,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Hat man nicht auch Gold beineben",17yfaFbhjMimPrVlCvR4yi,0,0.409,0.199,10,-15.909,1,0.0526,0.947,0.57,0.289,0.642,167.21,142867,4
+195,Lata Mangeshkar,Kis Raah Ka Rahi Hai Tu,18Y2a1zACOtcie0zKoj9Ux,0,0.592,0.123,8,-11.886,1,0.21,0.993,0.562,0.364,0.553,71.881,206183,4
+196,Dilú Melo,Coco Babaçu,19OpOlAc0TDeDyAEFfb1Dl,0,0.717,0.0544,11,-20.085,1,0.219,0.987,0.0141,0.11,0.718,90.532,150953,4
+197,Mahendra Kapoor,Tere Naina Kyon Bhar Aaye - Male Vocals,1AIGnI84F6K6FXua3h7FL3,1,0.457,0.416,8,-7.082,1,0.0286,0.892,0.0,0.103,0.527,157.341,64366,4
+198,Master Ebrahim,Yeh Hai Bombay Meri Jaan - Instrumental,1Ae5aVwY5BwMlZKIeqVZBB,0,0.496,0.431,0,-11.312,1,0.0841,0.889,0.861,0.229,0.784,162.493,177249,3
+199,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): In des Lebens Frühlingstagen",1CNGpCL7qL1tuZnQHXDWs8,0,0.313,0.229,3,-17.593,1,0.0539,0.976,0.00999,0.136,0.166,119.669,270267,4
+200,Memphis Slim,Rockin' the House,1CgVttZK1LXHMcPCfiyNtc,1,0.543,0.548,5,-5.441,1,0.0574,0.887,0.222,0.128,0.606,197.887,169173,4
+201,K Dutta,Soja Yodhha Tu Soja,1DBrycMunxUvsmsCw0bJwY,0,0.424,0.274,5,-14.018,0,0.0324,0.981,0.0335,0.662,0.523,99.059,175357,4
+202,Zeenat Begum,Dekha Karo Bhagwan,1DYoETmYm3kqm90EuLX0RU,0,0.603,0.227,9,-12.924,1,0.125,0.988,0.594,0.109,0.586,141.876,223592,3
+203,Tara Bai,Pardesi Kyon Yaad Aata Hai,1ES4ZR0bBvkLQSQTCakXFY,0,0.472,0.171,10,-16.654,1,0.0448,0.995,0.928,0.295,0.637,73.596,159800,4
+204,Francisco Canaro,Dos Corazones - Remasterizado,1FKvl1YfccJjm2EdyXwVEw,0,0.585,0.148,8,-12.494,0,0.0624,0.984,0.159,0.105,0.572,96.06,188067,3
+205,Amirbai Karnataki,Soti Hoon Ab Sab Soti Hoon,1FbE37xhByxh4ehjlfmNwv,0,0.707,0.0569,3,-9.68,1,0.335,0.994,0.00249,0.0926,0.664,122.793,166528,4
+206,Ludwig van Beethoven,"Violin Concerto in D Major, Op. 61: I. Allegro, ma non troppo",1IbMnQZerBJgZOBYJYDqcW,0,0.226,0.08,7,-20.75,1,0.0531,0.915,0.215,0.178,0.0883,72.947,1273613,4
+207,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Des besten Königs Wink und Wille",1JvlxppLUHo8BqSsg6cX6M,0,0.396,0.257,7,-15.368,1,0.0626,0.965,0.000993,0.731,0.389,126.701,208933,4
+208,Master Ebrahim,Dua Kar Gham-E-Dil-Anarkali - Instrumental,1K3cWZTr7E7yfA5BjWLuXC,0,0.542,0.381,7,-12.811,1,0.0784,0.99,0.885,0.123,0.751,81.708,190803,4
+209,Ghulam Haider,Jhoolon Ki Aai Hai Bahar,1LKDyW3Lw8311brDk9W8TP,0,0.831,0.353,5,-7.247,1,0.424,0.978,0.000132,0.166,0.812,105.283,178219,4
+210,Umm Kulthum,Raq El Habeb,1Lq0PZl6L5ZatvQ7rGBaD8,0,0.376,0.387,10,-9.788,1,0.0487,0.908,0.0344,0.94,0.373,122.323,2388050,4
+211,Hallé,Symphony No. 3 in C Major: III. Moderato -,1PLKcyRuCgUM5rlL06H4hd,0,0.363,0.171,7,-16.54,1,0.0376,0.946,0.941,0.157,0.124,128.342,405827,4
+212,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Ach! Du bist gerettet!",1Q4VFunWI6tO6RM1RI2JDI,0,0.345,0.191,10,-20.869,1,0.0456,0.944,0.913,0.558,0.46,76.488,29200,5
+213,Lester Young,Ghost Of A Chance - Take 1,1QsUSyN4JFUPC1DydhUmsG,1,0.529,0.0967,0,-14.089,1,0.05,0.985,0.952,0.106,0.289,114.57,207827,4
+214,BBC Symphony Orchestra,Concert for Violin & Orchestra: III. Allegro - Slow Valse Tempo - Andante Con Moto,1ROXmdJwyTc9jsz7qHK95C,0,0.22,0.277,4,-16.777,0,0.0492,0.889,0.499,0.327,0.129,71.661,396960,3
+215,Francisco Canaro,Dos Minutos - Remasterizado,1T3YIakWPPiOc0bQekhKYL,0,0.466,0.402,2,-9.931,1,0.0483,0.98,0.751,0.1,0.901,124.451,136000,4
+216,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Und jetzt sag ich Adieu - Live",1TGQ44359w9tdZtHHlaJHQ,0,0.25,0.123,6,-22.673,1,0.0512,0.978,3.33e-05,0.566,0.143,88.653,465640,3
+217,Isaura Garcia,Cicatrizes,1Um0R2yaEzp6EmfUhmWkzc,1,0.384,0.211,8,-11.248,1,0.0338,0.976,0.000178,0.182,0.142,112.643,155387,4
+218,Brijmala,Rimjhim Ka Mahina Hai,1VmDjvMGk6hyNVTct0NsnL,0,0.504,0.218,9,-10.225,1,0.0491,0.996,0.00125,0.311,0.567,135.033,188233,3
+219,Gyan Dutt,Gehun Ke Phoolke Khila De,1XhzOgHJ7Eh63KTcmP5cqb,0,0.465,0.27,4,-7.108,1,0.0459,0.976,5.9e-05,0.301,0.622,95.201,213159,3
+220,Ludwig van Beethoven,"Piano Concerto No. 3 in C Minor, Op. 37: I. Allegro con brio",1YDGfETVTuSEGcy7luHnbB,0,0.27,0.179,0,-16.083,0,0.0369,0.981,0.914,0.115,0.173,71.408,929333,4
+221,Lester Young,Tush - Take 2,1Zv1aLYhjdFmwdiniRuFxg,2,0.399,0.588,3,-6.241,1,0.0604,0.867,0.844,0.112,0.706,206.026,172200,4
+222,Hemant Kumar,Phire Jao Keno Phire Phire Jao,1cTG0xwF2yXOUDBB7iiNis,0,0.261,0.164,7,-20.443,1,0.0366,0.977,0.0206,0.17,0.241,145.415,194427,4
+223,Master Ebrahim,Allah Ki Nazroon - Instrumental,1cv2Xlfurhng4UuG3DxYVV,0,0.467,0.313,7,-12.587,0,0.0533,0.993,0.92,0.162,0.81,148.97,207805,3
+224,Hemant Kumar,Aasa Jaoyar Pather Dhare,1dgcoDStRoSpKsEC8mdmQH,1,0.203,0.296,4,-13.638,0,0.0361,0.916,0.00232,0.1,0.286,146.083,192467,3
+225,Lester Young,Ding Dong - Take 3,1dhmUkD7XVzZzXnsknBMd9,1,0.496,0.436,1,-12.168,1,0.0707,0.818,0.00561,0.319,0.792,145.511,147027,4
+226,Stan Getz,Don't Worry 'Bout Me,1eWEHf5kjscm4F0ZMUmJFt,0,0.551,0.476,7,-6.981,1,0.0314,0.815,0.876,0.0511,0.791,73.445,164984,4
+227,Khursheed Bano,Dil Ko Dhadkan Bawaliya,1fCUK7B32SEnhspsFSO64V,0,0.532,0.198,0,-19.579,1,0.0416,0.993,0.938,0.223,0.825,66.559,151907,3
+228,Master Ebrahim,Murli Wale Murli Baj - Instrumental,1gg0S13UXZ4JHO71OR7NFy,0,0.473,0.328,11,-11.694,1,0.17,0.917,0.896,0.145,0.863,90.354,170381,3
+229,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Das ist ein Engel - Live",1jcTnOb2i7QJfRNAYsb9EX,0,0.328,0.155,2,-23.964,0,0.0565,0.95,1.37e-06,0.149,0.221,105.639,176027,4
+230,Zohrabai Ambalewali,More Saiyanji Ne Bheja Chunari,1joF76WdM8O0n9V1j8J3tw,0,0.652,0.229,1,-17.878,1,0.13,0.986,0.885,0.345,0.923,123.489,203573,4
+231,Rafique Gaznavi,Aaya Toofan Jaag Bharat Ki Nari,1kftfu59Ui6EX4pBkIoJd6,0,0.697,0.364,9,-11.71,0,0.22,0.996,0.878,0.366,0.831,71.887,152405,4
+232,Rajkumari,Jaoon Kaise Main Beech Bazar,1oMsNDn9aXJ0L2DNGcR06d,0,0.496,0.277,7,-7.986,0,0.219,0.994,5.7e-05,0.252,0.737,81.96,177342,3
+233,Leela Sawant,Le Aaye Baharon Ko,1pevTvt4kqBjplagjh5ckf,0,0.369,0.177,2,-16.641,1,0.0584,0.981,0.82,0.13,0.699,73.426,186080,4
+234,Kaushalya,Maa Pyari Maa,1q01EjeBeRwq1z4oDrvR94,0,0.369,0.199,8,-14.622,0,0.0673,0.995,0.702,0.107,0.415,162.928,193040,3
+235,P. U. Chinnappa,Namakkini Bayamedhu,1q6SALVk7SVEvTdLEno2dX,0,0.513,0.547,9,-9.491,1,0.0553,0.993,0.461,0.068,0.844,97.94,386947,4
+236,Master Ebrahim,Jhoomta Mausam Mast Mahina - Instrumental,1qVNBhkNTRoOFhH9PRlxny,0,0.487,0.446,5,-8.995,1,0.0424,0.982,0.926,0.312,0.709,141.271,223343,4
+237,Leela Sawant,Kaga Ji Desh Piya Ki Jaiyo,1sPRHb3reJgYHU7S7ziPrW,0,0.459,0.151,11,-10.854,0,0.0524,0.995,0.00152,0.32,0.431,65.509,192209,5
+238,Franklin Delano Roosevelt,Fourth Inaugural Address - 01 20 1945,1tnLTLm1qqoroVINv8mKc8,0,0.621,0.135,11,-11.113,1,0.461,0.173,0.0,0.108,0.26,170.086,359743,5
+239,Isaura Garcia,Amor Impossível,1uK4m6k1nOEgdl9oqzKtY0,0,0.48,0.318,2,-10.153,1,0.039,0.988,0.296,0.388,0.701,157.557,146773,4
+240,Master Ebrahim,Balma Anari Man Bhaye - Instrumental,1vIczXyBmYMx5kM4AWpu0Z,0,0.381,0.539,5,-9.51,1,0.0857,0.933,0.796,0.261,0.655,86.091,197959,4
+241,Memphis Slim,Life Is Like That,1vl68bNAkaN8HW2p79EjVu,0,0.507,0.467,0,-3.542,1,0.0402,0.955,0.746,0.124,0.457,76.521,173573,4
+242,Amirbai Karnataki,Bagiya Kare Singaar,1x56cMiia7YcYHa41VAxBY,0,0.668,0.206,2,-9.189,0,0.195,0.995,0.0757,0.147,0.741,130.444,177128,4
+243,Bijaya Das,Tabu Samayta Noy Jeno Mondo,1xWsfJ4oMbfSd4tGB29Sy7,0,0.463,0.346,6,-10.436,1,0.0713,0.957,0.0232,0.194,0.567,136.702,211613,4
+244,Rajkumari,Jate Ho To Jao Musafir,1xcsIjtZHWe2WqGGDZV2M6,0,0.309,0.184,3,-21.549,0,0.0844,0.944,0.0,0.451,0.464,74.742,218918,4
+245,Mustafa,Dushman Ki Chhati Par Jhanda,1xqlw2LP7VNqvnCyd84L9j,0,0.725,0.386,0,-9.177,1,0.165,0.991,0.129,0.0705,0.966,125.899,181400,4
+246,George Gershwin,Piano Concerto in F Major: II. Adagio - Andante con moto,1yVT0yQgCM1KtlZCx5aXjn,1,0.165,0.0593,6,-24.001,1,0.0388,0.986,0.889,0.125,0.0469,69.9,717373,3
+247,Leela Sawant,Sakhi Ri Ab Ke Na Sawan Aaye,1zw1VwKB3lq7wwzu1Cg9Go,0,0.505,0.147,3,-11.32,0,0.0996,0.995,0.157,0.187,0.571,79.228,180204,4
+248,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 3: Das war sehr gut, Mandryka - Live",207O2qFNvg4vxuqzR4niW1,0,0.218,0.322,8,-16.463,0,0.0532,0.961,0.0012,0.625,0.04,82.41,550107,4
+249,Francisco Canaro,Naipe - Remasterizado,20fKqP26Ei7prZal8M77iA,0,0.593,0.355,2,-7.478,0,0.0401,0.865,0.0613,0.129,0.594,124.934,174693,4
+250,Isaura Garcia,No Rancho Fundo,20kW4cBdUXIEJZw3XgKh0A,2,0.497,0.274,2,-7.627,1,0.0438,0.974,0.00156,0.185,0.511,134.365,199653,4
+251,Sushila Rani,Baandh Ke Rakhoongi Tohe,20zMUKImzFxjZDE5Dgo5oq,0,0.586,0.169,1,-11.012,1,0.113,0.982,0.691,0.103,0.687,116.453,196800,5
+252,Ben Webster,Honeysuckle Rose,21839dJsCL44c4xrGAdiPV,0,0.623,0.286,4,-9.687,1,0.0756,0.947,0.923,0.179,0.733,160.089,203179,4
+253,Master Ebrahim,O Duniya Ke Rakhwale - Instrumental,21zsEwpxCGDFbEzqzuDP5t,0,0.0,0.301,7,-11.738,0,0.0,0.983,0.477,0.0917,0.0,0.0,172130,0
+254,Francisco Canaro,Mi Caballo Bayo - Remasterizado,22bHBHA3DwspqKCuSuoVaL,0,0.478,0.336,9,-11.517,1,0.0351,0.972,0.0625,0.152,0.742,138.903,189907,4
+255,Francisco Canaro,Café de los Angelitos - Remasterizado,23lrhck5cDOMLzSyckFTET,0,0.588,0.22,4,-13.493,0,0.0459,0.911,0.14,0.311,0.721,63.066,170507,4
+256,Bhola,Roko Na Tum Karwan Ko,25aJVdL78RFO2sXTLEB5Ys,0,0.524,0.291,5,-10.645,1,0.0721,0.994,0.87,0.243,0.251,96.432,209746,4
+257,Lalita Parulekar,Ab Ham Jaye Kiske Dwar,27PuEXRaRSAAz0T5CgnjMf,0,0.63,0.237,6,-13.717,1,0.0792,0.989,0.00104,0.932,0.64,117.589,179165,4
+258,Ramesh Gupta,Kyon Rooth Gaye,28fsZ7QRMdjhUugY142dEk,0,0.591,0.304,5,-8.831,0,0.0797,0.994,0.298,0.242,0.838,72.116,185597,3
+259,Francisco Canaro,Mas Solo Que Nunca - Remasterizado,2AHGEpHmJOFlIVPs2Sq5wl,0,0.583,0.26,4,-12.344,0,0.049,0.869,0.00201,0.118,0.745,127.052,156733,4
+260,Lata Mangeshkar,Jiske Sapne Humen Ros Aate Hai,2Dqqz3RzYnpMsJQj2p4VlE,5,0.465,0.601,6,-6.194,1,0.053,0.787,0.0,0.135,0.524,94.615,304303,4
+261,Surendra,Kyon Man Dhoonde Prem Nadi Ka,2GmVYgfzwMvNMEqUeHmOIO,0,0.265,0.252,4,-16.221,1,0.0467,0.884,0.572,0.0582,0.381,71.774,169600,4
+262,Coleman Hawkins,Ol' Man River,2IBkwXNzrPh79igzDoLMwX,0,0.615,0.507,2,-7.753,1,0.0737,0.964,0.926,0.128,0.653,126.844,183430,4
+263,Khursheed Bano,Na Woh Bhoole Na Ham Bhoole,2JDFiLw96coggVapQpbyt3,0,0.46,0.0671,4,-16.966,1,0.0752,0.994,0.902,0.217,0.564,69.135,185893,4
+264,Francisco Canaro,Otra Noche - Remasterizado,2JM8gahOI3qGGfab7L990F,0,0.651,0.098,0,-15.032,0,0.287,0.992,0.332,0.141,0.717,132.076,155640,4
+265,Francisco Canaro,Tres Amigos - Remasterizado,2KnNhFjc59trsoou6snZMF,0,0.409,0.189,11,-15.232,0,0.0616,0.884,0.00162,0.401,0.643,86.825,178467,5
+266,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 6",2LOP0Zdpiaikglt75XAMVm,18,0.71,0.301,1,-17.111,1,0.944,0.339,0.0,0.887,0.38,112.471,541320,5
+267,Richard Strauss,"Horn Concerto No. 2 in E-Flat Major, TrV 283: I. Allegro - II. Andante con moto",2M5mAvtaiA5AiM8JDpBiLQ,0,0.0975,0.154,8,-19.19,1,0.0354,0.958,0.496,0.089,0.0519,84.006,819093,4
+268,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Sind Sie allein? - Live",2MDYEGHEK2urKNgfJu3wCy,0,0.415,0.312,3,-17.552,0,0.0934,0.987,9.98e-05,0.275,0.346,91.806,246200,3
+269,Francisco Canaro,Esta Noche de Luna - Remasterizado,2O98U73shq5u4ulsMDzyy3,0,0.522,0.175,10,-15.133,1,0.0526,0.913,0.0184,0.116,0.642,125.93,194893,4
+270,Master Ebrahim,Apna Pata Bata De - Instrumental,2OTBtwxlKQaGiwJxAFFZf5,0,0.472,0.321,5,-13.12,1,0.0419,0.992,0.945,0.144,0.961,144.281,195791,4
+271,Balbir,Zara Sambhal Sambhal Ke Chal,2Ql0xLkXNLJfXNcXk8jLxj,0,0.572,0.22,7,-9.338,0,0.168,0.993,1.49e-06,0.0809,0.888,89.481,164728,3
+272,Dhirendrachandra Mitra,"Holi Khelibe Giridhari, Pt. 2",2QwIlNsg1eJFbhzvkdbKsf,0,0.513,0.221,9,-12.342,1,0.0858,0.975,0.505,0.116,0.721,131.036,196347,4
+273,Suman Kalyanpur,Bansuri Bajai Ke,2RGRO3fJ0v8OsN8sTsslvR,0,0.399,0.899,1,-3.65,1,0.0883,0.812,5.86e-06,0.346,0.538,106.054,213264,4
+274,S. D. Batish,Khamosh Nigahen Yeh Sunati Hai,2UKIRQ0b1C3N7p7cAOOpTr,0,0.339,0.0776,6,-22.638,1,0.0507,0.995,0.953,0.271,0.334,74.926,312107,4
+275,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Nur hurtig fort, nur frisch gegraben!",2UZyO7LlCNyjEL01Rs7YqO,0,0.413,0.16,9,-16.792,0,0.0555,0.978,0.00157,0.116,0.267,107.431,247893,4
+276,Hemant Kumar,Amar Raat Pohalo,2Ut16KtHWyk9iBA21R37O1,0,0.42,0.199,0,-17.661,1,0.0334,0.99,0.655,0.116,0.385,72.489,178427,3
+277,Amirbai Karnataki,Manhar Banke Bihari Re,2Uw4yM2RtPwIm8noT9Fayh,0,0.706,0.299,3,-7.808,0,0.067,0.985,3.34e-05,0.384,0.735,101.482,202072,3
+278,John Dowland,John Dowland: Galliard,2VQijHu0xJWHnJTlEfANcV,0,0.433,0.0614,8,-24.3,1,0.181,0.995,0.885,0.107,0.528,78.807,43573,1
+279,Lester Young,Crazy Over J-Z - Take 3,2W1Cny6ZhbDZoGRxOVV3Y9,3,0.473,0.299,1,-13.592,1,0.0432,0.831,0.00355,0.0875,0.746,108.341,162693,4
+280,Michael Morgan Wise,Have Yourself a Merry Little Christmas,2WgNxLLRcv8X0d31GaZ2Dj,0,0.424,0.0662,9,-19.807,0,0.0498,0.918,0.00685,0.129,0.161,94.755,188356,3
+281,Zohrabai Ambalewali,Hume bhul mat jaiyo raja ji,2X4DSLT6ILFyRCdq3Ew4tU,0,0.607,0.22,1,-11.331,1,0.125,0.996,0.889,0.326,0.731,71.913,175830,3
+282,M. K. Thyagaraja Bhagavathar,Manmatha Leelayai,2XSoNlNxLdC6ZJj09sZQ7B,1,0.458,0.396,11,-9.858,1,0.0714,0.948,0.608,0.352,0.838,94.278,205080,4
+283,Isaura Garcia,Teu Retrato,2YFEMlvXUTRtczE0o9HW3T,0,0.574,0.279,9,-12.565,1,0.0469,0.987,0.00169,0.115,0.501,139.072,167320,4
+284,Arun Kumar,Bedard Ka Bulao,2ZFueN39HNe5k4vJtQ9DsU,0,0.589,0.206,8,-9.954,1,0.157,0.995,0.0199,0.0775,0.874,121.014,189690,3
+285,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine kleine Nachtmusik"": IV. Rondo: Allegro",2ZqijdPsh8vsLUYxFL7hiF,0,0.49,0.26,7,-16.085,1,0.0367,0.935,0.474,0.264,0.72,114.213,188400,4
+286,Surendra,Bhanwra Madhuban Mein Mat Ja,2a3e0CVkljrYGYHcDsjitY,0,0.405,0.263,9,-17.535,1,0.0477,0.965,0.25,0.134,0.391,81.172,184693,4
+287,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine kleine Nachtmusik"": III. Menuetto",2bDDCR4Z0SdDaOnqi88i9m,1,0.348,0.0847,2,-16.696,1,0.0385,0.917,0.000291,0.411,0.513,128.027,126533,3
+288,George Gershwin,Piano Concerto in F Major: III. Allegro agitato,2blKLMICL7jAOltQy2zgZe,1,0.323,0.285,10,-18.26,1,0.035,0.986,0.785,0.25,0.398,138.813,389360,4
+289,David Roy Eldridge,St. Louis Blues,2bnjTkPxG7xGMQjQ9Tte1B,0,0.449,0.642,2,-9.472,1,0.816,0.894,0.00385,0.812,0.724,172.888,146722,3
+290,Zeenat Begum,Subah Huyi Aur Panchhi Jage,2bzNQ0XjYLid9nKGx2ckkt,0,0.729,0.242,10,-11.093,1,0.0431,0.947,1.46e-06,0.278,0.932,140.987,147439,4
+291,Khursheed Bano,Jo Hampe Guzarti Hai,2c03Q6gFcBAdvYp614z6nl,0,0.421,0.0829,9,-17.883,1,0.0509,0.995,0.869,0.101,0.493,65.656,200320,4
+292,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 4",2e0VGeO22pDkfJZzOzuPxp,20,0.723,0.302,10,-16.273,0,0.96,0.46,0.0,0.373,0.491,65.279,478507,3
+293,Malti,Aaj More Dwar Anand Apaar,2fm6TPWioc6fh553IoksZu,2,0.578,0.143,4,-12.419,1,0.467,0.994,0.743,0.468,0.663,170.332,196375,3
+294,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Und du wirst mein Gebieter sein - Live",2geuz6IYiZ7iolH54NOrUt,1,0.184,0.071,4,-25.745,1,0.0387,0.985,0.00926,0.543,0.113,94.282,246733,4
+295,Johann Sebastian Bach,"Chromatic Fantasia and Fugue in D Minor, BWV 903: Fantasia",2i56qOdjRNZ1WaAvtdXtdd,0,0.244,0.0794,7,-23.459,0,0.0464,0.992,0.921,0.0834,0.0957,80.606,399800,4
+296,Francisco Canaro,Buenas Noches Corazón - Remasterizado,2ixoDrVXaDW7rxdpJpAg1Y,0,0.755,0.331,10,-10.398,1,0.0876,0.958,0.0877,0.0561,0.779,85.661,167507,4
+297,Panditrao Nagarkar,Hi Cham Cham Jali Ya Nauka,2krdOJ4zW5TuMuJm5wUdSo,0,0.373,0.184,6,-15.158,1,0.0605,0.995,0.754,0.0945,0.663,69.962,218627,5
+298,Francisco Canaro,Santa Marta - Remasterizado,2lsPGDtp4eawoDcjAHcMNk,0,0.741,0.444,8,-8.656,1,0.0762,0.943,0.668,0.255,0.913,136.151,170000,4
+299,Leela Chitnis,Main Roun Tu Rulaye Ja,2mEOYFr4bUYTa2LIxSvgJ2,0,0.438,0.0578,8,-16.647,0,0.0565,0.993,0.906,0.14,0.341,67.294,199587,3
+300,Zeenat Begum,Sajan Aa Ja Rajan Aa Ja,2mjp2Sp9EhqbOlGStW83TE,0,0.704,0.0912,4,-10.038,1,0.322,0.993,0.598,0.39,0.85,71.957,193837,4
+301,Shama,Ansoo Na Bahana,2nDodUIE5pQenmIUCWPDnn,0,0.498,0.0269,6,-19.445,1,0.101,0.995,0.856,0.144,0.538,69.35,203639,4
+302,Zohrabai Ambalawali,Bharat Mata Ki Beti,2nkEK6Ig1xCYGJeTVaJU04,0,0.485,0.279,2,-11.56,1,0.223,0.995,0.855,0.407,0.605,162.926,168480,4
+303,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Jetzt, Alter, hat es Eile!",2p48STpkqO4vqihSFT45Mp,0,0.465,0.238,9,-13.308,1,0.0618,0.976,0.0352,0.148,0.442,82.295,268067,4
+304,Ashok Kumar,Bolo Har Har Mahadeo Allaho Akbar,2pMsXIDcVn7fVmT8hbQAfN,0,0.261,0.192,3,-15.173,0,0.0494,0.988,0.919,0.106,0.401,71.885,153000,4
+305,Master Ebrahim,Char Din Ki Chandni - Instrumental,2tO63qMeJYLZdADsqKKibY,0,0.39,0.217,8,-11.819,0,0.0393,0.987,0.769,0.323,0.852,175.993,197750,1
+306,Asha Bhosle,Bigda Naseeb Kaun Sanware,2u0Da23T5BU8WOIvFvv9IQ,0,0.473,0.137,10,-10.643,1,0.161,0.991,1.97e-05,0.317,0.664,151.85,194233,3
+307,Miguel Llobet Solés,Miguel Llobet: El Testamente de Amelia,2u2fKIr3uwVaL5tTxbHwco,1,0.51,0.0182,1,-30.846,0,0.0412,0.995,0.959,0.0823,0.229,105.821,116800,3
+308,Alberto Gomez,Noche de Abril,2ud1elPjoXlUeHce9PziIm,0,0.423,0.26,5,-16.155,0,0.0523,0.907,0.0108,0.129,0.339,77.798,213933,4
+309,Lata Mangeshkar,Umal Umal Ga Komal Kalike,2xM4zt47tz49EXmBn5QQKM,0,0.625,0.182,6,-13.024,1,0.112,0.992,0.903,0.132,0.523,131.376,187987,4
+310,Carolina Cardoso de Menezes,Tico-tico no Fubá,2yYcloGVoBntaZ1IcXnHbW,1,0.725,0.497,1,-14.163,1,0.0467,0.97,0.955,0.199,0.96,96.599,131806,4
+311,Master Ebrahim,Meri Jaan Meri Jaan - Instrumental,2zEDJnpN6QA0TCNWLAuoG7,0,0.429,0.553,0,-11.128,0,0.0607,0.979,0.875,0.15,0.965,126.001,195478,5
+312,Henry Purcell,Henry Purcell: Minuet,2zOQaPlw380JrQAEPUsuNP,0,0.618,0.0339,8,-24.909,0,0.0878,0.992,0.469,0.16,0.438,93.332,73427,3
+313,Rekha Mullick,Geye Jai Gaan Geye Jai,321n3HydzRZKYHNdR2M5Hy,0,0.438,0.211,9,-13.278,0,0.0465,0.987,0.223,0.138,0.22,65.439,199133,4
+314,Johann Sebastian Bach,"Toccata in E Minor, BWV 914",32NG5xfw4msh1vO4MDy9tE,1,0.288,0.315,4,-17.293,0,0.0422,0.995,0.914,0.112,0.233,123.421,325693,5
+315,Hameeda Bano,O Balam O Sajan,346wjKpjbiuFMgUZbkY27J,0,0.625,0.112,6,-12.057,1,0.283,0.994,0.44,0.119,0.54,79.289,182282,4
+316,Zeenat Begum,Duniya Ki Yeh Khushi Hai Tujhe,34IdD5cbf5TJ8rd3yHYyCU,0,0.443,0.132,0,-10.072,1,0.251,0.993,0.0372,0.149,0.677,63.836,211267,3
+317,Kalyani,Ho Kahe Beech Bajariya Soyi,34Igi9qOFRRRV8JdfX0hvW,0,0.254,0.298,5,-17.614,1,0.139,0.933,0.0,0.975,0.709,185.995,215946,3
+318,Memphis Slim,Slim's Boogie,35d18nvoy7pHITzCI2TDsr,0,0.651,0.828,5,-5.783,1,0.134,0.967,0.6,0.22,0.617,92.572,160680,4
+319,Francisco Canaro,El Listón - Remasterizado,361qRaqZEgZPIFamg8GPT1,0,0.714,0.218,8,-13.42,1,0.492,0.97,0.71,0.114,0.842,125.965,197867,4
+320,Master Ebrahim,Kya Mil Gaya Bhagwan - Instrumental,36LKouCofD8QRGh5HjZp0v,0,0.64,0.371,11,-10.222,1,0.0682,0.951,0.833,0.16,0.968,139.608,164165,3
+321,Memphis Slim,Motherless Child,36ReEYeVcymxueQ17UUH7b,0,0.459,0.494,0,-3.647,1,0.0269,0.978,0.336,0.128,0.403,69.597,172467,4
+322,Public Domain,Saltarello,36gnIfWklsZUEmXU5t7hgj,0,0.426,0.0734,6,-28.592,1,0.0565,0.996,0.94,0.102,0.0365,114.588,62573,4
+323,Lester Young,Blues 'N' Bell's - Take 1 / Take 2,379Lzgdd73yPR7YHhfHjZN,1,0.419,0.259,8,-14.315,1,0.0684,0.884,0.414,0.0871,0.598,166.622,274240,4
+324,Avinash Vyas,Sari Daliyon Men Mithi Ek Dali,39cwbPDeYCH68xlcv8Es8L,0,0.576,0.352,4,-7.857,1,0.34,0.98,0.0,0.423,0.798,137.168,196122,4
+325,Domenico Scarlatti,Domenico Scarlatti: Sonata L.352,3A9Dge6J7OiyWBq2Jnhf5o,2,0.509,0.105,10,-22.852,0,0.0835,0.993,0.857,0.109,0.719,79.899,190093,4
+326,Manorama,Bhabhi Roothe Bhai Manaye,3AIMyEHyafMyBDHwk8yWkI,0,0.512,0.2,4,-8.475,1,0.0787,0.993,0.00219,0.365,0.549,129.348,190636,4
+327,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": II. Andante cantabile",3BGADL7y7uqRpQR2SlXbec,0,0.172,0.0425,5,-25.061,1,0.0458,0.946,0.0596,0.082,0.0416,114.364,563573,3
+328,Asha Bhosle,Dekh Le Is Jahan Men,3BKjAsmF3MU9kBAk36i63P,0,0.679,0.268,0,-10.523,1,0.447,0.994,0.759,0.117,0.947,175.044,174862,3
+329,Khursheed,Mohabbat Mein Sara Jahan,3BVFxUo6T7vAzSOgm6zmf5,0,0.497,0.0765,6,-22.352,1,0.105,0.991,0.909,0.103,0.583,74.416,171493,4
+330,Sitara,Mere Dilruba Aaja,3E0XUmkVx9dd3vSnMAtMtf,0,0.361,0.31,6,-12.067,0,0.107,0.984,0.00439,0.353,0.755,82.658,194870,4
+331,Ninu Mazumder,Tumne Mujhko Pehchan Liya,3EWpY4DzKYK6HaQiPkVTJV,0,0.669,0.125,10,-12.859,1,0.422,0.995,0.62,0.247,0.764,134.413,184187,4
+332,Alberto Gomez,Yira Yira,3EfQLZ4EtFZyB16x1uGPOS,0,0.587,0.118,9,-16.706,0,0.0805,0.989,4.46e-06,0.141,0.57,87.712,179520,4
+333,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Sie wollen alle Geld! - Live",3FhYqY1vucVC5ycg5a5T5P,0,0.36,0.179,10,-19.196,1,0.0881,0.857,0.0,0.688,0.223,67.016,119000,3
+334,Federico Moreno Torroba,Moreno Torroba: Arada,3FlIhp4kSNCLpi22FuDmtO,1,0.475,0.0125,8,-27.389,0,0.0437,0.994,0.92,0.106,0.26,98.601,179773,4
+335,Master Ebrahim,Mera Naam Raju - Instrumental,3FzxXU6k3kiI53NIhSUKmb,0,0.494,0.349,4,-10.376,0,0.0685,0.98,0.76,0.078,0.876,128.908,190829,4
+336,George Gershwin,"3 Preludes: No. 1, Allegro ben ritmato e deciso",3G8Ju210fo7bDL1MTnLcFq,1,0.457,0.127,5,-22.013,1,0.0418,0.994,0.906,0.0957,0.367,106.296,78867,3
+337,Rajkumari,Panchhi Mere Khushi Ka Zamana,3GNLKhQzR46TNllo10dwNb,0,0.56,0.244,10,-12.414,0,0.0461,0.977,0.015,0.317,0.449,80.279,222601,3
+338,Robert de Visée,Robert de Visée: Bourrée,3Gw8VPriJJxzD0iJL4YE6z,1,0.559,0.0863,8,-26.941,0,0.0438,0.995,0.927,0.142,0.891,105.406,45200,4
+339,Amirbai Karnataki,Bhiksha De De Maiya Pingla,3HGr7YAkpZYaZZfsQYEG1h,0,0.388,0.149,9,-16.537,1,0.031,0.979,0.436,0.137,0.382,76.124,324267,4
+340,Jean-Philippe Rameau,Jean Philippe Rameau: Minuet,3I3BdgAV7cs7hUMEnr6l3O,0,0.557,0.0503,8,-24.201,1,0.0593,0.995,0.877,0.108,0.676,76.585,154867,4
+341,C. Ramchandra,Jeene Do Is Duniya Men Humen Bhi,3JzSlFAIR6s5xLGbr61AZC,0,0.778,0.258,2,-8.562,1,0.106,0.992,0.017,0.44,0.888,73.548,153571,4
+342,Khursheed,Bulbul Aa Tu Hi Ga,3KIcrfy6E7X4ngXmMvuoGZ,0,0.505,0.19,9,-15.377,0,0.0757,0.993,0.799,0.0902,0.642,141.335,199227,1
+343,Bhanumathi Ramakrishna,Badli Hawa Meethi Bahar,3KOn3IAUMZ0RdIKlM205ko,0,0.279,0.206,9,-10.159,1,0.0373,0.995,0.314,0.218,0.389,72.786,205172,4
+344,Noor Jehan,Banti Nazar Aati Nahin,3Lc1kaNZhZngiRO0VTpmf9,0,0.376,0.219,6,-12.25,1,0.0985,0.965,1.85e-05,0.127,0.5,183.71,200267,3
+345,Francisco Canaro,Por las Calles de la Vida - Remasterizado,3M1KTNuXd94aDeMuux0MkU,0,0.623,0.204,1,-10.302,0,0.0829,0.947,0.0227,0.126,0.749,129.788,225000,4
+346,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Ach, Vater, eilet!",3MnzpF0eIuORCUZL1VxP7q,0,0.556,0.34,0,-14.213,0,0.218,0.929,8.64e-05,0.678,0.621,62.33,41973,4
+347,M. K. Thyagaraja Bhagavathar,Maamuni Naadha,3NLciNY2hOIxjlDW4kmjJE,0,0.497,0.273,7,-7.679,1,0.0547,0.97,0.0708,0.204,0.509,73.13,105800,3
+348,Malti,Kisne Churaya Mera Dil,3NrLVTpHQFjycocOTQwqzV,0,0.702,0.213,4,-11.345,0,0.454,0.995,0.859,0.11,0.84,94.823,183629,3
+349,Rajkumari,Chalen Prem Ke Desh Pujari,3RHSl6vj7bGksmjyzjgZ8S,0,0.65,0.131,11,-11.183,1,0.148,0.995,0.263,0.25,0.75,128.597,177551,4
+350,Mohammed Rafi,Hindustan Ke Hum Hain,3RYBsX6C9aSHD6YKRnXEvr,0,0.457,0.199,0,-16.919,1,0.161,0.991,0.906,0.0979,0.827,170.22,166813,3
+351,Johann Sebastian Bach,"Sonata No. 3 in G Minor, BWV 1029: I. Vivace",3RalsJbwPt5qTX4LH0D5xX,1,0.402,0.217,7,-14.947,0,0.0461,0.992,0.901,0.109,0.629,73.763,375200,4
+352,Kajjan,Ghunghat Pat Nahin Kholoon,3Rc7RBQGPQLF6bKeRER3vT,0,0.547,0.281,3,-9.239,0,0.113,0.984,0.0234,0.138,0.553,114.102,203404,4
+353,K Dutta,Jago Kishan Murari Girdhari,3RnyckVJnpLUGA2nUiu8xu,0,0.472,0.205,4,-12.292,1,0.0721,0.992,0.000131,0.416,0.712,128.673,191797,3
+354,Master Ebrahim,Pyase Panchhi Neel Gagan Mein - Instrumental,3Ro36gd7893KOb6C23T2ir,0,0.586,0.413,6,-10.206,0,0.0495,0.913,0.91,0.142,0.819,121.123,200283,4
+355,G. M. Durrani,Ae Hind Ke Saputo,3SI22MSm5QvhHvZiI35SRJ,0,0.517,0.345,4,-13.161,0,0.103,0.992,0.911,0.154,0.612,68.284,177067,4
+356,Safiye Ayla,Nereden Sevdim O Zalim Kadını,3SuiwCoE8aHow4wyZYL864,0,0.278,0.279,5,-8.784,1,0.0447,0.993,0.012,0.591,0.254,83.283,172565,4
+357,Memphis Slim,Pacemaker Boogie,3UROJq5TRkTJrNa78KDKLt,0,0.495,0.724,7,-3.088,1,0.0325,0.934,0.953,0.123,0.898,105.034,165800,4
+358,P. U. Chinnappa,Un Karunai,3Ug6nVoQVK3M9WfUlii1ps,0,0.49,0.272,9,-8.696,0,0.0697,0.995,0.924,0.246,0.654,84.308,166493,4
+359,Munni,Bhabhi Bhaiya Ko Dhamkaye,3WXNU1veswfHuS3cR2ePQT,0,0.708,0.415,10,-8.368,1,0.363,0.995,0.695,0.161,0.975,62.352,193881,4
+360,M. K. Thyagaraja Bhagavathar,Ennaalum Intha Inbam,3Wz4CtA1Ft7b9Vki1q6Rd7,0,0.446,0.302,8,-10.106,1,0.0575,0.994,0.0188,0.239,0.674,85.262,192013,4
+361,Lester Young,Circus In Rhythm - Take 1,3XjauSiKLRvzi8MRNqyMc6,1,0.394,0.427,5,-9.902,0,0.0843,0.964,0.918,0.0881,0.793,209.588,176360,4
+362,Hemant Kumar,Amar Aar Habe Na Deri,3ZHMLSOlxqhSwjw7bqI1nI,0,0.278,0.121,11,-16.185,0,0.0363,0.995,0.737,0.106,0.329,66.813,195147,3
+363,Asha Bhosle,Jo Dil Men Basai Thi,3bDbodnpkocYbew8mOB5N6,0,0.369,0.683,9,-4.895,0,0.0469,0.876,0.0,0.471,0.767,167.779,290691,3
+364,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Wir müssen gleich zu Werke schreiten",3dVhpgipSXKSdJGSiNB73R,0,0.334,0.293,3,-15.515,1,0.0609,0.97,0.189,0.655,0.28,114.424,162213,4
+365,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Ich danke, Fräulein - Live",3eGtEQ3jr7eCGtP1DV8S84,0,0.254,0.128,5,-20.619,1,0.082,0.92,0.0,0.183,0.131,72.743,344067,4
+366,Leela Chitnis,Hamen Yaad Aa Rahi Unki,3eMGJ6M8esRgIUfMDxmUZ8,0,0.707,0.159,9,-16.045,1,0.0594,0.995,0.771,0.145,0.899,130.502,173773,4
+367,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": I. Allegro vivace",3epfWLea3LJ0CiDVEskl7L,1,0.334,0.212,7,-15.445,1,0.0424,0.913,0.481,0.165,0.325,83.25,479200,4
+368,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Wer ein solches Weib errungen",3eqCAopbRWG0fTk6aIIe1Q,0,0.451,0.519,5,-10.386,1,0.0988,0.961,0.0291,0.197,0.499,140.645,236400,4
+369,Hameeda Bano,Chidiyon Ko Udna Sikhaya Kisne,3fg1IvfGUJAohz9hdCPLff,0,0.799,0.365,10,-8.542,1,0.103,0.986,0.0433,0.176,0.971,118.985,155281,4
+370,Amirbai Karnataki,Hum Aage Badhte Jayen,3glFlbR7jxkRLVrtjAEZZg,0,0.681,0.304,10,-9.715,0,0.345,0.995,0.038,0.135,0.66,99.382,187931,4
+371,Amirbai Karnataki,Chanda Des Piya Ke Jaa,3gteaXQCIGLKR57KIaEr3X,0,0.501,0.219,7,-16.535,1,0.0715,0.995,0.919,0.182,0.578,90.715,184693,4
+372,Tara Bai,Mun Kahe Ghabraye,3huXV4tV7P8Iw3deLFW0Yr,0,0.568,0.104,10,-19.02,1,0.0481,0.995,0.96,0.175,0.758,127.415,284933,4
+373,Umm Kulthum,El Fawazer Qolely Wala Tekhabesh,3iyOmN6gbnplC3jVNmwdGG,0,0.669,0.256,3,-17.762,0,0.81,0.995,0.409,0.656,0.738,101.567,204657,4
+374,Memphis Slim,Angel Child,3km8Y3czhH9vpWOUAnGcxi,1,0.426,0.153,0,-7.048,1,0.0307,0.984,0.462,0.0919,0.272,171.504,172413,3
+375,Master Ebrahim,Zamana Yeh Samjha - Instrumental,3kokwKFSriD8CCkvFhmWzU,0,0.501,0.366,10,-11.791,1,0.059,0.986,0.848,0.125,0.794,80.415,182028,3
+376,Memphis Slim,Harlem Bound,3l0Xe2CjKzZd2VpXbEK5qC,0,0.566,0.736,5,-3.275,1,0.0309,0.939,0.892,0.112,0.753,101.155,160853,4
+377,Shamshad Begum,Jao Sajan Harjaee,3lIyyLyUdolUxI2dkeN7cK,0,0.703,0.392,11,-6.166,0,0.261,0.89,0.0296,0.0959,0.881,137.199,186173,4
+378,Dilú Melo,Engenho D'Água,3m1CtSj4aK2jssVZJ0dioG,0,0.669,0.247,10,-18.224,1,0.0796,0.983,0.123,0.081,0.595,149.571,159519,4
+379,Shama,Misle Khyal Aaye The,3mWR0WmOkenEpQE5kVzIkO,0,0.412,0.171,5,-13.65,0,0.0404,0.995,0.897,0.173,0.666,78.063,174627,4
+380,Francisco Canaro,Mi Reflexión - Remasterizado,3no0HkEexlmapJTBeFZWHC,0,0.634,0.23,11,-11.703,0,0.0568,0.964,0.742,0.108,0.683,122.699,160560,4
+381,S. D. Batish,Meri Arzoo Dekh Kya,3p1KYQCBHueerJgbP5KY1A,0,0.629,0.362,8,-9.684,0,0.435,0.99,6.1e-05,0.182,0.717,133.81,137979,4
+382,Memphis Slim,Cheatin' Around,3po27vw5S018SX5WEzX7bd,0,0.592,0.451,0,-7.841,1,0.193,0.981,0.134,0.137,0.738,135.453,170907,3
+383,Umm Kulthum,Ahl El Hawa,3qRnMBjTv0I3dNCoGKtMdv,0,0.451,0.616,7,-9.125,0,0.374,0.98,0.351,0.651,0.569,120.34,2599694,4
+384,Sushila Rani,Suno Ab Shyam Bihari,3r0HThAr9YAf6bppvqWd22,0,0.504,0.115,0,-14.132,0,0.088,0.993,0.749,0.136,0.358,69.917,175133,3
+385,Francisco Canaro,Guitarra - Remasterizado,3rpRwpzHYE2JPE8amtjRo1,0,0.69,0.0962,9,-14.03,0,0.192,0.98,0.316,0.115,0.704,128.05,166707,4
+386,Lester Young,Indiana - Take 1,3uqtSq6TTu3tKdpuCRQ8yp,1,0.488,0.308,8,-14.119,1,0.0674,0.946,0.895,0.107,0.798,185.988,174427,4
+387,Zohrabai Ambalawali,Bhanwaron Na Jab Tak Hansna Re,3vGI3UxY7k2XNeBTOnljGP,0,0.793,0.25,1,-9.64,1,0.133,0.994,0.879,0.128,0.943,136.295,180698,4
+388,Lata Mangeshkar,O Raat Ke Musafir,3veSDvjSgV1Ive1MxGD5AY,0,0.438,0.0681,4,-13.089,0,0.121,0.994,0.226,0.33,0.637,166.301,202811,4
+389,Vijay,Ae Dil Dil Lagi Ka Asar,3yUQz7BkO4W9jsKQSJB229,0,0.551,0.188,5,-11.63,1,0.315,0.995,0.508,0.185,0.67,67.515,209485,3
+390,Kusum Joshi,Chale Saiyan Ladai Par,3yc9EXSheUZ72eigJrYKnC,0,0.67,0.143,5,-11.545,0,0.217,0.995,0.833,0.107,0.861,65.98,192627,4
+391,Master Ebrahim,Ankhiyan Milake - Instrumental,3yeAk14YwKjT6w4TjqqLBm,0,0.786,0.347,11,-14.59,1,0.134,0.993,0.898,0.11,0.945,109.215,171582,4
+392,Hemant Kumar,Keno Pantha E Chanchalata,3zL9NYzzWvxJo6MhzNeDeL,0,0.349,0.138,11,-16.515,1,0.0443,0.996,0.832,0.341,0.438,173.567,175213,4
+393,Master Ebrahim,Chamka Chamka Subha Ka - Instrumental,3zLg90zAiERTA339X8qcQF,0,0.511,0.395,10,-11.969,1,0.0466,0.981,0.841,0.408,0.873,80.448,199291,3
+394,Hameeda Bano,Kyon Dard De Ke Bhool Gaye,3zbRSeZfKCr2TqG9iOZ1Hl,0,0.568,0.13,9,-11.151,1,0.0957,0.996,0.793,0.113,0.547,73.345,203023,4
+395,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Sie wolln mich heiraten, sagt mein Vater - Live",40WQG14M5MzN9psLEElR9l,0,0.195,0.191,1,-21.207,1,0.0631,0.98,1.29e-05,0.149,0.151,66.642,414960,5
+396,Krishna Rao Chonkar,Ugich Ka Ghor Jiva Lagla,44K5QWjdRo7LN2ulAnE6Qa,0,0.492,0.266,3,-17.28,1,0.0423,0.989,0.947,0.127,0.766,127.267,185853,4
+397,Memphis Slim,A Letter Home,44Ma0SP3IOBaYF6O3jinNs,0,0.542,0.447,10,-7.298,1,0.0486,0.993,0.742,0.178,0.744,121.211,154480,3
+398,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Lasst uns allein, meine Töchter - Live",44WVsYnVBYXQjwk1fM7pgD,0,0.354,0.218,4,-18.918,0,0.112,0.978,0.0,0.503,0.33,83.79,227333,3
+399,Mustafa,Sab Desho Se Pyara Bharat Desh,44dWGxlMjZDkje2DuQ5y1K,0,0.672,0.231,10,-11.346,1,0.0729,0.995,0.894,0.164,0.843,78.673,179508,4
+400,Hameeda Bano,New Fashion Ka Aao Prem Rachaye,470meYZmpA64xsiNTqUGGN,0,0.764,0.118,11,-14.743,1,0.27,0.995,0.913,0.111,0.75,71.459,205513,4
+401,Master Ebrahim,Ek Bewafa Se Pyar Kiya - Instrumental,483FrZNNikZSaF6iqHzlem,0,0.533,0.216,7,-13.51,0,0.111,0.986,0.894,0.156,0.966,67.962,163382,4
+402,Amirbai Karnataki,O I See Ye Dekho Duniya Ka Rang,48YuODCEYDFsmT4LH8FfKw,0,0.803,0.263,9,-11.347,1,0.0593,0.991,0.0198,0.436,0.908,99.295,175822,4
+403,Hemant Kumar,Dhwanilo Ahwban Madhur Gombhir,48ZuyXKpWBWMZCeQqy2Fac,0,0.473,0.0976,7,-17.515,1,0.0424,0.995,0.966,0.178,0.359,76.726,183120,3
+404,Khursheed Bano,Jala Patang To Is Mein Qasoor,48roGsmbch3iJEJ7pZzGqe,0,0.414,0.101,4,-22.075,1,0.0439,0.992,0.851,0.115,0.264,67.942,195027,4
+405,Francisco Tárrega,Francisco Tárrega: Danza Mora,49gNhNM0BGaq3Ly7Oz8Pi5,2,0.454,0.0393,3,-29.324,0,0.0638,0.994,0.895,0.12,0.442,53.465,92733,4
+406,Naseem Akhtar,Kuchh Yaad Dilati Hai Hamen,49tXO959MctnI6TIIe322m,0,0.725,0.208,7,-9.406,0,0.46,0.985,0.00353,0.127,0.58,77.033,213595,3
+407,P. U. Chinnappa,Unavithambar Innarulellal,4BXoBHAv0fWaIu2K4Q6CU7,0,0.514,0.182,6,-9.544,1,0.085,0.995,0.454,0.167,0.71,114.407,112920,5
+408,Ghulam Haider,Hindu Muslim Shikh Isahi,4BrPRDKkNgr0iC1fDo1ofn,0,0.719,0.134,2,-9.178,1,0.188,0.99,0.0,0.131,0.577,130.103,196809,3
+409,Umm Kulthum,Slam Alla An El Oushaq,4CMvtVnoN11lSF6C32Y4Ci,0,0.435,0.0997,10,-21.089,1,0.112,0.994,0.601,0.157,0.459,83.28,357813,4
+410,Lester Young,Ding Dong - Take 1 / Take 2,4JXKwi4Pc7C6Ntz32Gfnwu,1,0.412,0.404,1,-13.029,1,0.0533,0.856,0.085,0.285,0.738,145.13,292867,3
+411,Isaura Garcia,O Século Do Progresso,4MQLg5KWzp1ScIKQ2pK6OS,0,0.548,0.342,7,-10.94,0,0.0348,0.98,0.394,0.137,0.51,139.029,180760,4
+412,Noor Jehan,Ab Kaun Hai Mera,4MTcBiGNebx9xfsd067zEU,0,0.357,0.103,4,-16.248,1,0.0377,0.989,0.929,0.276,0.264,72.412,103333,3
+413,Chhaya Devi,Balam Aa Man Ka Sandes Sunaoon,4MuZqRin3qVsJ5q4sDJf8U,0,0.599,0.189,10,-10.661,0,0.14,0.993,0.792,0.151,0.393,115.693,214323,4
+414,Hemant Kumar,Dhara Diye Jay Se Je,4NZIj7rgJ8q4sU3Cj55XN7,0,0.352,0.197,11,-17.853,1,0.0487,0.989,0.922,0.111,0.694,84.417,199827,4
+415,Rafiq Sagar,Piyo Aur Pilao - Instrumental,4NpWaUafUyUbWT5VjpzW9X,0,0.529,0.334,5,-19.246,0,0.0529,0.975,0.837,0.52,0.888,80.536,246160,3
+416,Amirbai Karnataki,Mora Dheere Se Ghoonghat,4ON527Ua0SBQHUOs87d3kY,0,0.45,0.276,4,-13.134,1,0.0596,0.995,0.923,0.617,0.575,133.282,190667,4
+417,Master Ebrahim,Aag Lagi Tan Man Mein - Instrumental,4Ol7cksO1I3HbEYjQoiSQt,0,0.564,0.33,8,-12.317,0,0.155,0.986,0.944,0.215,0.918,81.752,195426,4
+418,Binota Roy,Oi Malati Lata Dole,4PEXaHD0gSTyEsREzg4wV1,0,0.393,0.0861,5,-17.752,0,0.0448,0.98,0.873,0.111,0.273,72.455,169982,4
+419,Amirbai Karnataki,Dariya-E-Mohabbat Ka Gar Door Kinara,4PLCpXiLRcPuAyFjSgyz8G,0,0.425,0.223,9,-10.423,1,0.0543,0.995,0.804,0.0838,0.233,66.628,211837,4
+420,Francisco Canaro,Torrente - Remasterizado,4QZm9BBmAsQvAKPTbXwuYH,0,0.375,0.172,6,-17.114,0,0.0508,0.992,0.88,0.22,0.507,93.334,204200,4
+421,Francisco Canaro,Destellos - Remasterizado,4QtGb79wjQGBR1PmOUFfQH,0,0.61,0.181,2,-13.29,1,0.0449,0.96,0.0358,0.195,0.727,125.443,166027,4
+422,Manuel Ponce,Manuel Ponce: Gavotte,4RAdySqC09loDHp9DuQu3E,0,0.471,0.0567,9,-26.177,1,0.0794,0.977,0.85,0.124,0.827,87.079,178467,4
+423,Binota Roy,Jana Gana Mana Adhinayak,4RofbRTIKoKH36TUbUpE2i,0,0.378,0.218,0,-11.407,1,0.0347,0.98,0.000245,0.113,0.136,143.054,196413,5
+424,Ludwig van Beethoven,"Violin Concerto in D Major, Op. 61: III. Rondo. Allegro",4RvxQU1nCHO02ZfIA2SPIV,0,0.415,0.104,2,-16.151,1,0.0588,0.94,0.707,0.0899,0.293,90.746,506773,4
+425,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Wie kalt ist es",4T4XEadTbUIq71Y1C1dYVY,0,0.507,0.0291,10,-29.406,1,0.308,0.823,0.0,0.112,0.177,127.134,116600,1
+426,Lester Young,Blues 'N' Bell's - Take 3,4TKIlUpTNOnpb9whJYsRM3,2,0.392,0.279,8,-13.507,1,0.0597,0.884,0.151,0.122,0.65,170.639,143173,4
+427,Binota Roy,Chander Hasir Bandh Bhengechhe,4UJyPwGbOGdlSdY6pc7YXr,0,0.362,0.123,1,-17.256,1,0.0396,0.991,0.922,0.116,0.377,74.232,213787,4
+428,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): O namenlose Freude!",4VeJyCsSMLPIkLs0VQcSp4,0,0.398,0.246,7,-17.273,1,0.0795,0.932,0.0165,0.118,0.351,116.254,146400,4
+429,Master Ebrahim,Chhoti Si Yeh Zindagani - Instrumental,4XKDJQbYkSxTM7CGQbNZOX,0,0.79,0.371,1,-13.291,0,0.079,0.983,0.952,0.116,0.879,102.655,207126,4
+430,Franklin Delano Roosevelt,Address to Congress on Yalta - 03 01 1945,4ZqyhM0W9AQL4PLnDsfdcM,0,0.656,0.356,6,-14.367,1,0.681,0.937,0.00151,0.694,0.421,122.394,3091373,3
+431,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Die Karten fallen besser als das letzte Mal - Live",4aGgBvfD8s6D7MrUf07mKk,0,0.435,0.217,7,-19.55,0,0.22,0.955,0.0,0.362,0.253,78.577,306400,4
+432,Johann Sebastian Bach,"Italian Concerto in F Major, BWV 971: III. Presto",4argh126rJl3LQxMKVJ7pj,0,0.419,0.306,5,-17.287,1,0.0313,0.993,0.907,0.132,0.743,131.462,197560,4
+433,Isaura Garcia,Seresteiro,4atjdSYVoV4S8jZjw9tkZR,0,0.642,0.327,2,-7.949,1,0.0786,0.956,0.0144,0.198,0.815,138.962,157120,4
+434,Husn Banu,Khushi Ke Tarane Sunata Chala Ja,4bDfW2mo5Z33WSZj5gETCO,0,0.455,0.307,9,-16.863,1,0.0675,0.966,0.938,0.126,0.654,73.435,180267,3
+435,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): March",4bibTa3mtN6nziZeyTAGW1,0,0.502,0.102,10,-15.623,1,0.0369,0.956,0.614,0.127,0.615,124.1,73667,4
+436,Luis Carlos Molina Acevedo,Villancico: A Christmas Round,4cdFhbHdUrKrZEgv2uhDne,0,0.446,0.0197,2,-15.186,1,0.0502,0.995,0.945,0.125,0.0,66.08,31608,3
+437,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Overture",4ceOaEqAUJIIdCSz1qrwgW,0,0.305,0.199,4,-14.497,1,0.0457,0.915,0.8,0.494,0.167,128.103,390293,4
+438,George Gershwin,"Variations on ""I Got Rhythm""",4cigkcu0hJaJOvQb28REBN,1,0.379,0.257,5,-16.366,1,0.0357,0.933,0.742,0.454,0.158,117.942,533333,4
+439,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Gott! Welch ein Dunkel hier!",4daCsfCHGg7eXE8pCRAI6W,0,0.258,0.0794,10,-19.202,0,0.0349,0.967,0.253,0.224,0.0756,97.65,268733,3
+440,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 5",4eJvctGiE6wibW9YR3l6wN,19,0.631,0.263,1,-18.167,1,0.958,0.248,0.0,0.145,0.528,164.649,547627,3
+441,Alberto Gomez,Otra Noche,4eN6C05N8NoGbAWLYZPm7q,0,0.536,0.0306,1,-17.857,1,0.0587,0.98,0.000108,0.315,0.504,114.156,217093,1
+442,Master Ebrahim,Preet Ke Bandhan Mein - Instrumental,4gNGzFJhgrBZsYYmJPBigJ,0,0.474,0.493,0,-11.092,0,0.067,0.922,0.92,0.208,0.859,138.144,198116,3
+443,Hemant Kumar,Klanti Amar Khama Karo,4ggXblrXV33gseJRjSyBtG,1,0.279,0.0919,7,-18.813,1,0.0359,0.986,0.00438,0.105,0.253,71.952,151333,3
+444,Leela Sawant,Gagriya Re Kaun Kiye Aise Punya,4htu3FoDG5AZKrBCNWw1Lx,0,0.447,0.274,2,-9.994,1,0.105,0.992,0.684,0.348,0.882,180.372,177383,3
+445,Ben Webster,I Surrender Dear,4iO50ikff8IOfrNH7JTrQ8,0,0.463,0.287,2,-10.128,0,0.174,0.984,0.91,0.172,0.662,70.684,200012,4
+446,Naseem Bano,Mujhe Madhur Lagta Hai,4iiJjEINi7OLJz6Szc1Ryh,0,0.583,0.403,1,-11.557,1,0.112,0.986,0.89,0.181,0.898,134.283,198680,3
+447,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Gut, Söhnchen, gut!",4ikBeyIaZhjl8imOjqmwoO,0,0.351,0.285,5,-15.942,1,0.078,0.955,0.113,0.454,0.403,68.005,346107,4
+448,Amirbai Karnataki,Meri Ro Ro Ankhiyan Lal Huyi,4inknSPLmNo7ADyflmiw4f,0,0.526,0.338,10,-9.575,1,0.0567,0.994,0.858,0.121,0.855,121.707,194159,4
+449,Brijmala,Bhoole Se Bhool Na Jana Balam,4kFg09R2O5WccmgcegtABW,0,0.465,0.349,0,-7.411,1,0.0706,0.994,0.00725,0.456,0.925,75.7,151973,4
+450,Raichand Boral,Chalo Beer Chalo Beer,4lCSgpJEI8y697Fyoqb9Ox,0,0.411,0.218,1,-12.973,1,0.0382,0.991,0.334,0.108,0.278,111.676,178227,4
+451,Isaura Garcia,Deixa O Povo Falar,4lf7g9rPBaSIcTmicq5TW3,0,0.707,0.391,11,-10.143,0,0.0572,0.975,0.00295,0.264,0.85,89.413,157747,4
+452,Memphis Slim,Mistakes In Life,4lfXuCre4btZEiV8FNj8cJ,0,0.578,0.582,0,-3.088,1,0.0457,0.984,0.628,0.211,0.834,93.213,166867,4
+453,Memphis Slim,Kilroy Has Been Here,4ln5BPn87PBAiforqs8SVY,0,0.694,0.508,5,-3.815,1,0.0589,0.926,0.00059,0.0485,0.659,84.734,166573,4
+454,Master Ebrahim,Woh Chand Khila Woh Tare Hanse - Instrumental,4mJ5YyXUR9QOuNgCHji8GN,0,0.618,0.391,10,-9.499,1,0.0375,0.968,0.923,0.101,0.894,135.04,198455,4
+455,Zeenat Begum,Dhaan Ke Khet Mein Na Jaiyo,4nkSjfUffhWqip3WgvfoIc,0,0.828,0.389,4,-11.48,1,0.537,0.922,0.113,0.109,0.883,80.244,124504,4
+456,Federico Moreno Torroba,Moreno Torroba: Albada,4oOn2QwxVDnd1RZ507xEbG,1,0.602,0.0725,6,-24.833,1,0.132,0.993,0.717,0.09,0.709,76.754,88733,5
+457,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Ha! Welch ein Augenblick!",4oif2XKrSubD6TWgBWA4gY,0,0.475,0.233,2,-15.519,0,0.0473,0.91,0.074,0.239,0.444,88.532,168293,4
+458,Francisco Canaro,Horizonte Azul - Remasterizado,4ovDOttEclJ4LoCguWtOq8,0,0.526,0.382,8,-8.919,1,0.0444,0.986,0.773,0.408,0.559,103.763,180400,4
+459,Leela Sawant,Gaiya Ghar Laye Girdhari,4rakLszwPvhn68E7sudApX,0,0.539,0.288,5,-13.647,1,0.0706,0.991,0.916,0.157,0.626,74.057,190227,4
+460,Alberto Gomez,Ahora No Me Conocés,4sIIl7JeOUD9nGy0jlbtk9,0,0.484,0.0169,1,-22.426,1,0.0531,0.951,0.00121,0.0945,0.179,116.32,239400,3
+461,Amirbai Karnataki,Aaj Karle Singar,4snmyKPK7IORKxhvBDIUyq,0,0.556,0.291,6,-10.753,0,0.07,0.989,0.913,0.184,0.814,109.586,161280,4
+462,Binota Roy,Tomar Bandhon Khulte Lage,4v5BQ7vdFt8CJSzMlmPEXl,0,0.256,0.158,5,-14.173,1,0.0445,0.976,0.186,0.098,0.233,80.046,189467,4
+463,M. K. Thyagaraja Bhagavathar,Vaazhvilor Thirunaal,4vRA6Yn2DLDVvxfXMqKE5m,0,0.629,0.547,6,-8.078,1,0.077,0.854,0.0581,0.151,0.806,83.451,185027,4
+464,Francisco Canaro,Paloma - Remasterizado,4x3YPniPinUXXaGtNM24HI,0,0.651,0.459,2,-8.694,1,0.0369,0.958,0.279,0.0776,0.81,107.398,149000,1
+465,G. M. Durrani,Dil Bhi Ban Gaya Ek Kahani,4xaDQu3DHqXG8wmiBboiA7,0,0.383,0.247,0,-11.425,1,0.144,0.994,0.738,0.117,0.468,82.871,205932,3
+466,Rajkumari,Khole Re Kaun Mere Man Ke Dwar,4y6zUcKw0bPK09T6yCEYy2,0,0.574,0.142,4,-12.32,1,0.27,0.995,0.725,0.129,0.835,180.696,180535,3
+467,Sushila Rani,Kaun Bagiya Ke Mere Phool,4yKQFISWHgEkydcjiFIDgW,0,0.562,0.172,5,-12.576,1,0.0438,0.984,0.672,0.599,0.417,89.606,189627,3
+468,Zeenat Begum,Ho Rasiya Kabhi Le Chal Tu,4z9EwmPBIakErddbFPitO7,0,0.76,0.41,10,-5.147,1,0.0478,0.992,0.729,0.224,0.893,89.524,154806,3
+469,Sitara,Nagri Meri Kab Tak Yun Hi,4zWQYWwCvdaxq5HBVzFyzu,0,0.3,0.197,10,-20.522,1,0.044,0.982,0.932,0.147,0.542,73.084,185533,4
+470,Kalyani,Misl-E-Khyal Aaye The,4zmWwAEhr6gZZB9URmATUZ,0,0.389,0.055,0,-20.672,0,0.0396,0.995,0.877,0.162,0.521,81.752,179560,3
+471,Master Ebrahim,Kitna Badal Gaya Insaan - Instrumental,50AR5xBzZRRQfGfxXswCX9,0,0.532,0.329,9,-11.574,1,0.0436,0.991,0.947,0.15,0.759,150.399,203966,4
+472,Amirbai Karnataki,O Janewale Balamwa,50gqjGrYK2YViUp4CLtjtS,0,0.71,0.261,5,-16.246,0,0.0559,0.995,0.893,0.108,0.748,111.208,180067,4
+473,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 3: Pap! - Zdenka! Was für ein Aufzug! - Live",51GxjZgNAaHfuHfCSZ6kTM,0,0.298,0.222,6,-19.341,1,0.0808,0.973,2e-05,0.614,0.131,79.764,759200,4
+474,Master Ebrahim,Yaad Mein Teri Jaag Jaag Ke Hum - Instrumental,51rGjz9pJvGe0AraWDxwQA,0,0.348,0.299,2,-9.822,0,0.0491,0.916,0.641,0.337,0.581,169.546,202111,3
+475,Master Ebrahim,Yeh Duniya Hai Yahan Dil Ka Lagana - Instrumental,52LDvBZU4d66K027umVPdg,0,0.614,0.163,3,-13.533,0,0.0529,0.968,0.918,0.126,0.84,69.724,186285,3
+476,Lester Young,Salute To Fats - Take 1 / Take 2,52ObXROcfbaZDuP29MJWYg,1,0.622,0.252,0,-12.231,1,0.0461,0.958,0.814,0.098,0.474,76.881,281067,4
+477,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Abscheulicher! Wo eilst du hin?",52oJYK7Nzf5pcniom0J0a8,0,0.278,0.152,4,-15.952,1,0.0467,0.961,0.0208,0.284,0.149,81.172,430200,4
+478,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): O welche Lust in freier Luft",52xtfuWToEDYgjr9o4V7ee,0,0.175,0.147,10,-18.951,1,0.058,0.971,0.844,0.114,0.109,71.412,342333,4
+479,Master Ebrahim,Tu Mera Chand - Instrumental,53NNqbhQx0EvMmCKX13bj4,0,0.609,0.329,8,-10.866,0,0.0395,0.952,0.927,0.113,0.743,128.762,182316,4
+480,Amirbai Karnataki,Ikrar Ke Parde Mein,53xKnQA6TKCCzdhGmt0IL3,0,0.446,0.109,7,-9.571,1,0.0969,0.991,0.0553,0.149,0.377,69.617,207716,3
+481,Asha Bhosle,Ae Dilwale Hans Le Gaa Le,542SgCp2Nyd2C0sHRZPVVg,0,0.685,0.329,10,-10.949,1,0.385,0.982,0.00283,0.125,0.685,130.821,201321,4
+482,Francisco Canaro,Cristal - Remasterizado,54Cn5ht41zBOD9hNLHWNgf,0,0.524,0.206,2,-14.626,1,0.0418,0.894,0.037,0.368,0.511,124.803,211707,4
+483,Hemant Kumar,Amar Bela Je Jay Sanjh,55NKqsQNkr7RNTV6nvVmr1,0,0.433,0.243,11,-15.041,1,0.0316,0.944,0.0,0.236,0.565,140.78,134307,3
+484,Leela Chitnis,Ham Kya Bataye Kiska Hamen,55UiU1mKPHn0NfS35r4jkw,0,0.753,0.136,1,-13.377,0,0.236,0.995,0.466,0.124,0.741,74.697,172747,3
+485,Zohrabai Ambalewali,Chale Gaye Chale Gaye,56Fo8oCXJukvIRIyzUKGsT,0,0.676,0.289,7,-13.732,0,0.0536,0.993,0.94,0.0865,0.963,114.211,144693,4
+486,Francisco Canaro,Estampa del 800 - Remasterizado,56gVqkD96fipaTBQBI3XZS,0,0.705,0.68,10,-6.166,0,0.0839,0.802,0.715,0.115,0.955,113.103,187693,4
+487,Lata Mangeshkar,Tere Naina Kyon Bhar Aaye - Female Vocals,56kqjPxgybn8QrElMVwzjk,1,0.392,0.187,11,-17.372,1,0.0415,0.989,0.284,0.189,0.311,79.675,308173,4
+488,Noor Jehan,Teri Yaad Aayi,57IH0BrfiPPJuVlOhD5GYM,0,0.653,0.278,8,-9.439,1,0.0795,0.956,2.54e-05,0.0391,0.937,146.694,158000,3
+489,BBC Symphony Orchestra,"Concert for Violin & Orchestra: I. Overture (Allegro Risoluto), Ballad and Scherzo (Allegro Moderato - Poco Largamente)",57biZdx9cI2EgESjAYkI63,0,0.321,0.254,2,-17.723,0,0.042,0.928,0.682,0.472,0.0753,127.741,715133,4
+490,Avinash Vyas,Piya Tera Gaon Hai Kitni Door,58esETG2TZL6vvQz5YEvyg,0,0.508,0.103,11,-12.306,1,0.0783,0.995,0.84,0.117,0.316,120.134,178912,3
+491,Alejandro Sanz,Alejandro Sanz: Pavane,5ABD9oZGBstepFllDH5Wuc,1,0.55,0.00974,6,-28.753,1,0.0457,0.995,0.846,0.0989,0.423,97.82,89533,4
+492,Manorama,Chhaila Ho Chhaila,5AnXCNESWgpNF2aoqCMBKQ,0,0.484,0.307,9,-7.248,1,0.0685,0.986,6.61e-05,0.488,0.761,138.744,202339,5
+493,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Er sterbe! Doch er soll erst wissen",5Aswmp9sOf2WXDvjrmMag2,0,0.415,0.348,2,-13.518,1,0.0763,0.877,0.127,0.423,0.346,110.512,178867,4
+494,M. K. Thyagaraja Bhagavathar,Nijama Idhu Nijama,5C2CK5XZI6jbbQFcQpmrUz,0,0.641,0.308,6,-10.579,1,0.0419,0.991,0.594,0.152,0.733,101.632,135053,4
+495,Khursheed Bano,Mera Dil Jhum Raha,5DFL2tWQykz2ChMGTuK2ol,0,0.622,0.333,10,-8.85,0,0.0446,0.995,0.312,0.276,0.891,135.2,198113,3
+496,Manuel Ponce,Manuel Ponce: Romanza,5DgmD5lZkMAhjdSHeebfni,0,0.353,0.0231,3,-29.523,1,0.0395,0.993,0.927,0.0943,0.25,68.256,184366,4
+497,Francisco Canaro,La Culpa la Tuve Yo - Remasterizado,5E62wDaTrmmYk05pXGnbag,0,0.555,0.201,9,-12.264,0,0.0771,0.992,0.846,0.134,0.725,127.148,155920,4
+498,Murari,Vatan Se Chala Hai Vatan Ka Sipahi,5EYBMKeQpMm3Bho5jbXqiW,0,0.748,0.541,4,-10.065,0,0.158,0.975,0.0562,0.622,0.922,133.357,200172,4
+499,Amirbai Karnataki,Yeh Pyar Ki Zanjeer Hai,5EhjrzPIe5zjlHEjV9iDk6,0,0.446,0.216,6,-9.372,1,0.0697,0.994,0.725,0.245,0.704,86.569,209769,3
+500,Sushila Rani,Chamakat Hai Ang Sanwale,5EvIzh9XgJH70p0Ne92ru7,0,0.499,0.212,7,-12.255,1,0.0653,0.983,0.399,0.112,0.626,100.045,185520,3
+501,Hemant Kumar,Aar Rekho Na Andhare,5F7sYpZD0XpTj0ogaE6UdJ,1,0.23,0.139,0,-19.11,1,0.0369,0.991,0.51,0.0942,0.293,139.846,201733,3
+502,Master Ebrahim,Akela Tujhe Jane Na Doongi - Instrumental,5H326ghyFiFKWG0ImVdItN,0,0.493,0.473,0,-11.021,1,0.0642,0.955,0.878,0.207,0.88,81.504,189106,3
+503,Om Kalthom,Ya Ayn Ya Ayn,5HULd9bJiJk3FAbFjx42if,1,0.353,0.439,0,-13.092,1,0.0671,0.993,0.692,0.62,0.279,110.887,1393999,4
+504,Carolina Cardoso de Menezes,Amoroso,5HcTpwRbGUrMLra9rYfhkF,0,0.644,0.54,8,-11.519,1,0.0369,0.956,0.981,0.201,0.768,88.662,183960,4
+505,Henry Purcell,Henry Purcell: Jig,5HvkSSFlCuzZ1CoHsUDOCc,0,0.672,0.131,11,-23.755,1,0.113,0.991,0.686,0.112,0.268,101.285,36533,4
+506,Lata Mangeshkar,Kuthavar Baghasi Anta,5I5LAEOcaWh7p4Ai6cmR7a,0,0.417,0.127,7,-14.648,0,0.0518,0.99,0.927,0.107,0.254,130.522,207907,3
+507,Master Ebrahim,Jana Tumhare Pyar Mein - Instrumental,5IrHDNiXjBp0vYmlgcqp7S,0,0.572,0.434,5,-10.607,1,0.0835,0.957,0.929,0.203,0.783,76.619,190072,4
+508,Francisco Canaro,Sombras Nada Más - Remasterizado,5Jnipxe4iPKHwqCj4vepVT,0,0.516,0.219,5,-12.556,1,0.0428,0.978,0.893,0.107,0.731,64.863,163747,4
+509,Rina Celi,Mimi Mimosa - Remastered,5K2wkvUtplGNH7r0r0PJXe,0,0.638,0.306,7,-15.769,1,0.0393,0.927,0.00877,0.362,0.612,102.141,138852,4
+510,Francisco Canaro,Aleluya - Remasterizado,5KpOkhCpUvzWqNkDiXsDX3,0,0.729,0.326,11,-12.467,1,0.0741,0.989,0.913,0.111,0.963,113.423,197053,4
+511,Master Ebrahim,Nainon Se Nain Huye Char - Instrumental,5Mbzefea0fLvMTQZ8HPfTZ,0,0.448,0.339,3,-15.06,1,0.136,0.99,0.888,0.111,0.944,178.768,164270,3
+512,Alberto Gomez,En un Beso la Vida,5Mg6ks1VuhJADqTTeeIHO8,0,0.45,0.0401,5,-20.35,0,0.0521,0.985,6.63e-05,0.221,0.407,133.445,233213,5
+513,Carolina Cardoso de Menezes,Fala Bandolim,5MiQjK5suHvjtIEKVJTfYl,0,0.729,0.404,2,-13.583,1,0.0462,0.991,0.89,0.118,0.928,98.376,147772,4
+514,Manuel Ponce,Manuel Ponce: Sarabanda,5N3bclPEU367IM0aDRXLuR,0,0.563,0.0166,6,-27.709,0,0.0406,0.983,0.117,0.127,0.378,79.799,179173,4
+515,Binota Roy,Basante Phool Ganthlo,5Q6EWG7jgY0eUnXUP0o81M,0,0.472,0.156,9,-16.176,1,0.0497,0.987,0.928,0.109,0.598,97.338,180483,4
+516,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 3: Über seine Felder - Live",5RS5AW93JLbgdeWlUaApfd,0,0.332,0.224,10,-18.366,0,0.0929,0.982,8.38e-06,0.152,0.226,90.206,827000,4
+517,Johann Sebastian Bach,"Sonata No. 3 in G Minor, BWV 1029: II. Adagio",5RYedfjp1Mdw8wZG9QVCb3,0,0.178,0.119,10,-19.986,1,0.0461,0.992,0.839,0.126,0.125,75.793,398947,4
+518,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Leb' wohl, du warmes Sonnenlicht",5Ra9u6avYtaxP7riDWmYCR,0,0.3,0.248,10,-15.952,1,0.0685,0.979,0.141,0.0985,0.302,58.459,175613,4
+519,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 3: Sie gibt mir keinen Blick, sie sagt nicht gute Nacht - Live",5RyHizULGxRkfPBNRXwNU0,0,0.192,0.308,10,-17.058,0,0.081,0.973,0.00465,0.109,0.104,176.784,136693,3
+520,Shobha,Main Rani Hoon Rani,5SKYtDtmLWRD69TTaYdzTF,0,0.789,0.268,9,-10.439,1,0.25,0.995,0.923,0.355,0.938,75.386,166952,4
+521,Dipika,Kise Sunayen Apni Man Ki Baat,5TDKlPljzZWLRPp3HKRU9Z,0,0.443,0.301,5,-9.363,0,0.0436,0.992,5.06e-05,0.505,0.538,97.654,187501,4
+522,Lester Young,Exercise In Swing - Take 3 / Take 4,5UwzTnYcDBoPHsUoF2SdAI,1,0.573,0.533,7,-9.338,1,0.0403,0.817,0.887,0.191,0.797,110.749,372267,4
+523,Shamshad Begum,Laye Balamwa Mere Liye,5VEuMgfF5Bf1GekBYBwOZa,0,0.706,0.678,8,-7.083,0,0.177,0.983,0.786,0.881,0.961,124.328,138590,4
+524,Charlie Ventura,Dark Eyes,5Vp6GjjeIFByaYSbNmosDI,0,0.471,0.427,8,-8.453,0,0.0531,0.992,0.884,0.251,0.747,172.197,186411,4
+525,Feroz Nizami,Hum Aage Badhte Jayenge,5VuEkMblpSTHThQT0YtlAw,0,0.634,0.295,6,-9.55,0,0.116,0.995,0.059,0.155,0.515,95.203,177363,4
+526,Johann Jakob Froberger,Johann Jacob Froberger: Giga,5VusgIcScG39vX5nXvAHEc,0,0.573,0.0574,8,-26.037,0,0.0467,0.995,0.94,0.109,0.705,94.268,95867,4
+527,Zohrabai Ambalawali,Sawan Ke Badalo,5W3mccnQwF5YWUveNrUAx2,1,0.411,0.105,8,-14.857,0,0.0313,0.816,0.000212,0.101,0.452,93.659,207987,3
+528,Alberto Gomez,Ninguna,5WSZ6oo4g3cn4CmYGTfKVm,0,0.391,0.0262,1,-19.447,1,0.0518,0.983,0.00155,0.128,0.377,73.338,214453,5
+529,Lalita Parulekar,Tumhen Pyar Karna Sikhaoongi,5WhEynvgR6ZKRuspYLyrG1,0,0.702,0.0808,5,-11.184,1,0.2,0.995,0.00956,0.121,0.815,99.268,188296,3
+530,Francisco Canaro,Tristeza Marina - Remasterizado,5WtoRIhdvCL9YMbRzqWtMp,0,0.545,0.121,10,-13.81,1,0.0862,0.989,0.819,0.24,0.598,128.685,199773,4
+531,Robert de Visée,Robert de Visée: Minuet II,5XltQcDe3TkhCebOydv3e0,0,0.525,0.0267,10,-28.022,0,0.05,0.994,0.944,0.0993,0.318,117.475,126467,4
+532,Dale Carnegie,"Sorge dich nicht - lebe! - Die Kunst, zu einem von Ängsten und Aufregungen befreiten Leben zu finden, Kapitel 8",5Y30V9c2f9vMBoGMtFMfFe,17,0.715,0.323,10,-16.68,0,0.938,0.308,0.0,0.689,0.583,122.647,543840,3
+533,Daniel van Pel,Have Yourself a Merry Little Christmas (Piana-Pella),5YCLzHZ91CzroDpqbALUlB,0,0.403,0.00645,0,-28.357,1,0.0854,0.996,0.952,0.104,0.134,177.863,152000,3
+534,Memphis Slim,Throw This Poor Dog a Bone,5YZuOLNcNe5nxF8a8jmR4V,0,0.628,0.419,0,-5.674,1,0.0392,0.944,0.00176,0.121,0.567,84.973,172773,4
+535,Alberto Gomez,Julián Centeya,5Yq0J98iaAWNoTifcPBZWT,0,0.586,0.101,7,-18.35,1,0.142,0.901,0.00253,0.327,0.626,79.09,191973,4
+536,Ninu Mazumder,Main To Lambe Safar Ko Jaoon Re,5Z9010xCoKAvQDGHW6XWUl,0,0.649,0.193,0,-10.731,0,0.481,0.994,0.379,0.137,0.739,91.621,176623,3
+537,Francisco Canaro,Corazón Que Me Has Herido - Remasterizado,5aupcnjgXLxtCLqM4OtBaZ,0,0.478,0.225,2,-12.087,1,0.0541,0.984,0.917,0.215,0.687,129.723,175893,4
+538,Sushila Rani,Bhaiya Aao Mohan Bhaiya,5f1V279V846QbApXeMJ4ij,0,0.635,0.116,7,-13.541,0,0.0436,0.989,0.921,0.254,0.483,96.058,182587,4
+539,Hemant Kumar,Jakhan Tumi Bandhchhile Taar,5fCZgxcq0lguckZkgzGJkg,0,0.41,0.292,7,-16.96,0,0.0356,0.993,0.809,0.11,0.469,141.521,198187,1
+540,Zohrabai Ambalawali,Bhole Musafir Itna To Jaan Le,5fmDn6oC26dW4zTNClGSxD,0,0.456,0.179,9,-17.731,1,0.168,0.991,0.902,0.178,0.62,165.856,195853,3
+541,Memphis Slim,Lend Me Your Love,5fqKbSvvzEu34m75klEiyB,0,0.547,0.349,5,-6.995,1,0.0291,0.927,0.236,0.184,0.39,73.267,176653,4
+542,M. S. Rama Rao,Ee Reyi Nannolla Nerava,5i5c371shvc4u3eGeNWR7W,0,0.54,0.317,7,-10.534,1,0.0413,0.996,0.931,0.177,0.336,90.302,199120,5
+543,Francisco Canaro,Tu Pálida Voz - Remasterizado,5i9BmBlWMq1fsmiWXVoVOo,0,0.445,0.294,9,-14.163,0,0.102,0.933,0.448,0.11,0.766,182.593,168600,3
+544,Malti,Chandni Chand Se Kahiyo Jaye,5iLQsxm9fxq59OidUMemW8,1,0.535,0.0694,8,-13.976,1,0.244,0.995,0.831,0.154,0.67,67.755,195986,3
+545,Gyan Dutt,Shyam Kahan Aisi Jamuna Bata,5lMKPQ4Krtx3eJU94gwEI6,0,0.594,0.239,4,-7.128,1,0.0508,0.99,0.0,0.386,0.441,126.19,215449,4
+546,Noor Jehan,Badnaam Mohabbat Kaun Kare,5oxxMur8ZgEeUzaXNNtedo,0,0.429,0.132,4,-18.014,1,0.0465,0.995,0.88,0.106,0.454,95.774,183733,3
+547,Alberto Gomez,Garúa,5p8aS8iys8DT75bfMnpICS,0,0.411,0.0488,5,-20.64,1,0.0769,0.99,0.191,0.142,0.469,169.233,231800,4
+548,BBC Symphony Orchestra,Concert for Violin & Orchestra: II. Adagio,5rVfOWewR19uimCQKy9hvI,0,0.15,0.187,2,-20.924,1,0.0401,0.934,0.47,0.155,0.0391,92.799,563333,4
+549,P. U. Chinnappa,Inbam Adaindhomey,5slIAZsfTHjw9fo7nRCv6g,0,0.524,0.374,11,-9.741,1,0.186,0.995,0.89,0.332,0.93,129.929,131280,5
+550,Surendra,Alakh Naam Ras Peena,5xniguY4M6TUNe0tx201Ua,0,0.451,0.137,6,-12.662,1,0.0829,0.993,0.764,0.112,0.348,78.917,213765,3
+551,Francisco Canaro,Fue por una Mujer - Remasterizado,5ztRsnGmKOKgaj7CVjmwNg,0,0.628,0.321,7,-7.97,1,0.0528,0.947,0.11,0.331,0.615,129.076,184893,4
+552,Leela Chitnis,Tum Haare Main Jeeti,60KyH4gkEZeZa9d4fJtk70,0,0.609,0.188,10,-16.3,1,0.0874,0.992,0.874,0.111,0.833,137.502,204467,4
+553,Francisco Canaro,Vieja Carreta - Remasterizado,60UZC6xHsbRIqW1IFSLMRu,0,0.455,0.205,0,-11.566,1,0.0478,0.984,0.928,0.159,0.782,125.51,159960,4
+554,Hallé,Symphony No. 3 in C Major: II. Lento,60lqATzVH2jO77nLyoTczz,0,0.064,0.0564,0,-22.338,1,0.0407,0.971,0.938,0.0588,0.0337,66.923,758440,3
+555,Adriana Chamorro,Cenizas (feat. Cali Big Band),60u6yv3XzGiBIMkNkrsm4x,0,0.715,0.59,2,-2.899,0,0.0275,0.662,0.0,0.298,0.464,107.091,199991,4
+556,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Verwegner Alter, welche Rechte",610C1jmtRWhR8yaoIAE2So,0,0.461,0.159,2,-15.988,1,0.0847,0.933,2.74e-05,0.0663,0.559,135.285,88987,4
+557,Rajkumari,Meri Balam Bada Harjaee Re,639b2Px8nAeSf8jB7HOOeH,0,0.631,0.141,7,-10.058,1,0.345,0.995,0.187,0.178,0.663,129.654,182811,4
+558,Noor Jehan,Koi Prem Ka Deke Sandesa,64JpCh71ytMOhAf4sp4sKV,0,0.45,0.137,9,-16.899,1,0.043,0.982,0.935,0.0986,0.369,71.661,213813,4
+559,Federico Moreno Torroba,Moreno Torroba: Bugalesa,64bD79OSzJ16XbiqEAO7ae,1,0.612,0.0133,3,-28.829,1,0.0498,0.995,0.905,0.106,0.192,78.603,111693,4
+560,Master Ebrahim,Nanhe Munne Bachche Teri Mutthi Mein - Instrumental,64lqJfRndm7oj0qoVempFp,0,0.731,0.292,2,-10.406,0,0.0451,0.988,0.949,0.162,0.877,133.578,183987,4
+561,Zohrabai Ambalawali,Rumjhum Barse Badarwa,655PrU1S1b205jGNRJpvHX,0,0.66,0.407,6,-9.391,1,0.0992,0.916,0.00416,0.515,0.899,79.599,210000,4
+562,Bhanumathi Ramakrishna,Mavaru Tasildar,66uuu0FrLRUPKtpK1MFuBG,0,0.448,0.29,7,-15.113,1,0.0694,0.995,0.808,0.18,0.765,134.976,153227,4
+563,Manju,Angdai Teri Hai Bahana,69KyW0JTkdruTiTO7eLNdV,0,0.7,0.328,8,-9.707,0,0.137,0.983,0.0019,0.121,0.9,128.93,193640,4
+564,Khursheed Bano,Udas Sham Ki Aahen,69VDwSGHFDq0OoIs0iKpfe,0,0.34,0.0337,5,-19.075,1,0.0416,0.99,0.554,0.108,0.188,70.195,177440,3
+565,Ludwig van Beethoven,"Violin Concerto in D Major, Op. 61: II. Larghetto",6BzM6qA8cIs5PIULwfX2cc,0,0.17,0.0906,7,-27.266,1,0.0603,0.949,0.496,0.302,0.0622,78.036,524587,1
+566,Surendra,Mohaniya Sundar Mukhda Khol,6C8wziUklKUAbkYIaTrgTd,0,0.37,0.314,3,-12.802,1,0.0411,0.991,0.837,0.131,0.478,103.427,176667,4
+567,K Dutta,Suno Suno Tumhen Sunaye,6CMBpPcW5HH8VM5mpwCzRS,0,0.0,1.0,1,-4.363,1,0.0,0.202,0.999,0.647,0.0,0.0,163154,0
+568,Henry Purcell,Henry Purcell: A New Irish Tune,6CNVL9ZHb5F7BB8LUwuk3J,0,0.625,0.0285,3,-25.423,1,0.29,0.994,0.915,0.128,0.717,82.489,41440,4
+569,Johann Sebastian Bach,"Chromatic Fantasia and Fugue in D Minor, BWV 903: Fugue",6DgM3ZgCyAcF9qkAM09aYW,0,0.317,0.2,2,-20.422,0,0.0318,0.993,0.877,0.11,0.46,99.562,302973,4
+570,Memphis Slim,Now I Got the Blues,6EvPybnF8BB2p577ZmQwHt,0,0.574,0.617,0,-4.853,1,0.0507,0.99,0.651,0.17,0.938,97.788,157680,4
+571,Leela Bai,Jag Mein Jhooti Maya Re,6FTRK37ZgcDcSqUZk4NtiZ,0,0.416,0.399,1,-12.977,1,0.0518,0.985,0.005,0.553,0.539,119.603,185760,4
+572,G. M. Durrani,Hindustan Walo,6Fy55fIU0N3vLowZVBblaI,0,0.439,0.251,1,-11.949,0,0.0407,0.989,0.908,0.116,0.384,71.094,185680,5
+573,Tara,Ram Kare Kahin Naina,6GRQyBgIaqyCnTALF1RAMp,0,0.31,0.255,10,-15.994,1,0.0683,0.991,0.757,0.131,0.559,78.355,203000,4
+574,Master Ebrahim,Chhun Chhun Baje Payal Mori - Instrumental,6IOjMEQbaJvDcmYQzLOCuk,0,0.655,0.249,1,-12.363,0,0.0575,0.985,0.868,0.121,0.843,130.014,201902,4
+575,Francisco Canaro,El Negro Ramón - Remasterizado,6JXl3832qAmBQAPoB2vwh3,0,0.633,0.108,1,-14.589,0,0.25,0.991,0.891,0.199,0.76,133.54,163587,4
+576,Francisco Canaro,Rosa de Pasión - Remasterizado,6JYI0WR6SUbG2lfoupzHNo,0,0.489,0.462,7,-10.035,0,0.223,0.968,0.63,0.0676,0.785,106.449,191600,4
+577,Amirbai Karnataki,Soona Mandir Mera Sakhi Ri,6JjdgMofKReb1ktWwcrsg7,0,0.401,0.162,9,-18.667,1,0.0997,0.975,0.886,0.134,0.594,73.874,192157,5
+578,Public Domain,Canzone,6KnULjfnnFkwxpHl5miolT,0,0.449,0.00788,8,-27.643,0,0.0489,0.996,0.85,0.0944,0.386,73.791,95333,4
+579,Francisco Canaro,Oiga Rubia - Remasterizado,6Ko0rCKq1y516VdYlVTziR,0,0.506,0.383,7,-10.761,0,0.0682,0.992,0.917,0.11,0.953,92.227,182813,4
+580,Amirbai Karnataki,Ae Chand Bata De Tu,6NQU9hHkKBwz5YMy6oyxBa,0,0.612,0.205,4,-9.522,1,0.108,0.992,0.886,0.669,0.496,65.001,164345,4
+581,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Leonore Overture No. 3",6NqGitqZNHtJaU8N3eBtwP,0,0.244,0.115,0,-16.223,1,0.0415,0.901,0.805,0.101,0.152,81.177,790373,4
+582,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Das ist der Schlitten vom Elemer - Live",6O9xIDlHZCghFptPEH4Uvr,0,0.454,0.148,3,-19.816,1,0.137,0.931,0.0,0.829,0.213,110.083,156400,3
+583,Wolfgang Amadeus Mozart,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": IV. Molto Allegro",6P6kIEpmFTbC53QIqFzcGM,0,0.292,0.42,0,-13.5,1,0.0392,0.862,0.708,0.0979,0.351,71.626,361800,4
+584,Lester Young,Crazy Over J-Z - Take 1 / Take 2,6PW2hpKl1K8VMEOC7WJQnm,1,0.444,0.307,1,-15.198,1,0.0402,0.832,0.0247,0.244,0.777,103.948,333707,4
+585,Francisco Canaro,Valcesito Amigo - Remasterizado,6PkqQs5uEgbS1P48mwje50,0,0.643,0.245,7,-11.634,1,0.0746,0.986,0.88,0.208,0.751,93.774,161093,4
+586,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine kleine Nachtmusik"": I. Allegro",6QWY3mj32NbIwI6Dv42hof,1,0.452,0.157,7,-16.762,1,0.0439,0.931,0.379,0.215,0.428,131.316,263760,4
+587,Amirbai Karnataki,Bijli Girane Wale,6Rqu3Cz0Kf3tITAZDaI7HI,0,0.392,0.35,2,-8.143,1,0.085,0.99,0.293,0.121,0.216,80.077,177157,4
+588,Zohrabai Ambalawali,Aankhon Mein Intezar,6S9oPDk3jxgjCqPsF4SAVd,0,0.535,0.115,7,-18.051,0,0.0488,0.996,0.878,0.112,0.455,71.428,185307,4
+589,Naseem Bano,Chamko Chamko Bijuriya Chamko,6UHUWvU8LkWgL05vvWNsXM,0,0.506,0.304,2,-12.777,0,0.218,0.951,0.89,0.138,0.862,204.976,193613,4
+590,Isaura Garcia,Linda Flor Yaya,6UeslgDgg5y1GbNhsfr2Yh,0,0.475,0.219,7,-11.321,0,0.0319,0.992,0.00607,0.11,0.418,129.196,180507,4
+591,Palsekar,Vani Dehi Main Gyan Dehi Main,6VpEZ6sVvmUxhMIxeQp44T,0,0.339,0.236,5,-12.141,0,0.0508,0.985,0.000503,0.112,0.156,61.538,181766,5
+592,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Mir ist so wunderbar",6Y5BPqfQDzHZiXygZBXESZ,0,0.189,0.202,7,-16.295,1,0.0457,0.981,0.803,0.628,0.148,71.748,254093,3
+593,Johann Sebastian Bach,"Italian Concerto in F Major, BWV 971: II. Andante",6a3detszRqAhjhlmehm8dO,0,0.429,0.0198,2,-29.17,0,0.0466,0.995,0.888,0.0889,0.139,112.155,351547,4
+594,Miguel Llobet Solés,Miguel Llobet: El noi de la mare,6cOvKrVXdIu8ghgAFWPm9f,0,0.557,0.0201,1,-27.526,1,0.0405,0.995,0.864,0.116,0.433,70.819,80000,4
+595,Bharat Vyas,Chhip Chhip Kar Mat Dekho Ji,6dLvAYzxrOmH7VDNg1j370,0,0.671,0.211,0,-17.533,1,0.167,0.996,0.828,0.208,0.902,73.618,149467,4
+596,George Gershwin,Piano Concerto in F Major: I. Allegro,6dRbOpSayN8ct9SNcn59Y9,1,0.292,0.242,5,-18.002,1,0.0335,0.992,0.913,0.167,0.145,93.872,744293,4
+597,Sushila Rani,Gopala Mori,6eot51vEhBbIwS8SWXrpYZ,0,0.407,0.133,5,-14.529,1,0.043,0.986,0.87,0.216,0.271,73.299,196680,4
+598,Leela Sawant,Sanwre Bawre Bansuri Bajay Ja,6fw18fa2M8JdyA2vh0KfC7,0,0.692,0.235,9,-8.657,1,0.557,0.992,0.854,0.132,0.878,135.012,188257,4
+599,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Sie sehn nicht aus wie jemand - Live",6g1lk1uIBnLCUeh73FwQPu,0,0.299,0.181,11,-22.42,1,0.0688,0.965,2.06e-05,0.48,0.162,120.554,366907,5
+600,Asha Bhosle,Laila Majnu,6gDwr9LvijqlFj0th2hNr0,0,0.376,0.387,9,-9.748,1,0.04,0.976,3.13e-05,0.0789,0.288,123.929,679654,1
+601,Dilú Melo,Sapo Cururu,6grVxPLtsHPu474mzj6Tri,0,0.646,0.101,4,-23.022,0,0.0483,0.993,0.863,0.18,0.741,88.738,154012,4
+602,Gulshan Sufi,Meri Uthti Jawani Ki Dekho Bahar,6hvrcZ69Bx9SNA1s5QE8YJ,0,0.713,0.196,11,-10.341,1,0.496,0.994,0.833,0.251,0.894,68.837,187870,4
+603,Ludwig van Beethoven,"Piano Concerto No. 3 in C Minor, Op. 37: III. Rondo. Allegro - Presto",6j5RzzCjINxyBrf9WRohHe,0,0.451,0.227,0,-16.059,0,0.0342,0.983,0.905,0.815,0.415,121.968,521373,4
+604,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 3: Einleitung - Live",6jrNItI9Jq2pH2eBC3C393,0,0.196,0.408,9,-14.992,0,0.0556,0.851,0.0966,0.335,0.0969,130.464,280667,3
+605,Zohrabai Ambalawali,Pardesi Balma,6jzby9TF5hjFi4HeUboJ9f,0,0.498,0.299,8,-14.12,0,0.119,0.789,0.000772,0.441,0.964,184.05,178260,3
+606,Karan Dewan,Jab Tum Hi Chale Pardes,6mUcJO0aqAAF6ygHTkaEgH,0,0.377,0.235,5,-13.623,1,0.0646,0.851,0.795,0.318,0.844,153.03,179467,4
+607,Sushila Rani,Suhagan Kahe Ansoo Dale,6nShvdQroZMn53UD3G2HcU,0,0.483,0.2,9,-12.751,0,0.0746,0.988,0.853,0.124,0.284,121.889,178973,3
+608,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 2: Ein Feigling bin ich - Live",6nhH8vIMiyShYsl9RiNbAS,0,0.374,0.316,10,-17.502,0,0.389,0.963,0.0,0.878,0.338,72.001,753333,4
+609,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Heil sei dem Tag!",6o3OxFXRq7g414thvcTWM8,0,0.442,0.387,0,-13.005,1,0.0525,0.875,0.513,0.124,0.549,151.026,111067,4
+610,Robert de Visée,Robert de Visée: Minuet I,6odV0Mn2RveEw1ZSWRO7BP,1,0.552,0.0208,8,-26.619,0,0.0465,0.993,0.922,0.0995,0.466,96.723,103400,4
+611,Krishna Rao Chonkar,Vifal Janm Ha Gamla,6pzqRKhIQdoS0VP1KfdjiB,0,0.355,0.409,3,-14.321,0,0.22,0.989,0.939,0.212,0.709,70.433,186827,4
+612,M. K. Thyagaraja Bhagavathar,Ennudal Thanil,6rW6BXR0pHOS3XVilFEk9l,0,0.329,0.448,11,-7.668,1,0.0434,0.964,0.122,0.15,0.658,92.704,180693,3
+613,Panditrao Nagarkar,Ya Prabhu Ya Zadkari Ya,6tMPhPrwbXGkti4tZJLcu4,0,0.598,0.227,2,-14.142,0,0.0423,0.994,0.606,0.369,0.699,130.466,214173,4
+614,Lester Young,Circus In Rhythm - Take 2,6tSvmfiGoRHK8Ui7ONhdpi,2,0.626,0.45,5,-8.123,0,0.0397,0.882,0.525,0.116,0.699,96.033,192173,4
+615,Johann Sebastian Bach,"Sonata No. 3 in G Minor, BWV 1029: III. Allegro",6utYxaCp7G2rworQZAJh2e,0,0.265,0.253,7,-14.184,0,0.0408,0.985,0.949,0.132,0.567,156.44,282267,3
+616,Amirbai Karnataki,Sham Huyi O Panchhi Aa,6vzUhzY6uoRFCdvgFSHYhJ,0,0.722,0.336,1,-8.886,0,0.0438,0.982,0.00173,0.383,0.949,136.033,192911,4
+617,Kalyani,Kyon Dil Mila Hamara Tumhara,6w02tCwrbm74ullDGEfmtA,0,0.647,0.0379,1,-15.064,1,0.309,0.995,0.818,0.0983,0.697,69.332,180099,3
+618,Luis de Milan,Luis de Milan : Pavane VI,6wVLG8ZRzlTvNT7uNMZKN8,1,0.511,0.0223,1,-29.249,1,0.049,0.994,0.928,0.101,0.743,94.282,50333,4
+619,Jnan Prakash Ghosh,Jeena Ya Mar Jana Hai,6xCqXvoF6KyVLHbTa8uoI5,0,0.772,0.409,5,-7.818,1,0.0428,0.99,0.0138,0.635,0.971,113.657,171119,4
+620,Master Ebrahim,Aye Dil Na Mujhse Chhupa - Instrumental,70BJdMmr8LWwchjZqF9IXo,0,0.446,0.371,4,-10.977,1,0.0445,0.981,0.954,0.22,0.86,81.817,193963,3
+621,Rajkumari,Kya Yehi Jawani Hai,70KksKuPUmoU9PML9vysz1,0,0.748,0.306,5,-11.824,1,0.0716,0.981,0.00442,0.302,0.864,127.033,199478,4
+622,Don Byas,They Say It's Wonderful,72jhap07ZggqsFBcfoQgGb,0,0.437,0.19,1,-8.793,1,0.0415,0.978,0.887,0.0936,0.381,84.456,147098,4
+623,Leela Sawant,Saajan Paas Bula Lo,73SOEjBN46wttqiRdTdhvl,0,0.77,0.176,6,-12.178,0,0.125,0.995,0.693,0.169,0.889,89.284,190340,3
+624,Francisco Canaro,Sin Compasión - Remasterizado,7404ntf3YluO0zDikuVACO,0,0.677,0.268,4,-10.137,0,0.303,0.963,0.215,0.14,0.896,123.367,171813,4
+625,Shamshad Begum,Aaya Toofan Ghoomri Ghanghor Raat,74KUg17YP30q0kXSNKrY9k,0,0.706,0.25,4,-11.171,1,0.219,0.996,0.935,0.292,0.344,66.863,161136,4
+626,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 3: Ich gratuliere Ihnen, Herr Leutnant - Live",74YSTCCVdsUe4FT54BiAx0,0,0.415,0.241,0,-19.439,1,0.203,0.981,8.54e-06,0.65,0.273,132.035,336000,5
+627,Rajkumari,Madhur Suron Mein Gaye Chandni,75UeOB6oO51UwYIgx5TFCj,0,0.644,0.293,6,-10.507,0,0.0463,0.993,0.934,0.457,0.845,72.192,171267,3
+628,Stan Getz,And the Angel's Swing,76SamiqS80qK4K6nvTXlit,0,0.514,0.629,4,-4.926,1,0.0442,0.856,0.198,0.0487,0.655,129.556,170760,3
+629,Alberto Gomez,Charlemos,785rDsxpg6U6PnLcXxftNR,0,0.486,0.0846,1,-15.809,0,0.0763,0.982,6.42e-05,0.247,0.393,125.1,220773,5
+630,Shamshad Begum,Mere Devta Lo Meri Aarti,78m7pA2RffOKtCWIbyLfIL,0,0.539,0.0918,2,-15.349,1,0.189,0.989,0.011,0.108,0.493,167.196,154552,3
+631,Johann Sebastian Bach,"Italian Concerto in F Major, BWV 971: I. Allegro",7AMRmPxrb5AjYQvg6ULHiT,0,0.401,0.227,2,-18.692,0,0.0289,0.994,0.849,0.108,0.71,105.751,225773,4
+632,Ludwig van Beethoven,"Piano Concerto No. 3 in C Minor, Op. 37: II. Largo",7BhnqfqwXfNUQBfdg9Zscj,0,0.162,0.075,11,-23.529,1,0.0417,0.982,0.953,0.125,0.0632,49.899,496907,4
+633,P. U. Chinnappa,Indraikku Siva,7C7ncgBFMCwDzKSPn4OXW4,0,0.521,0.421,2,-8.511,0,0.0875,0.994,0.618,0.162,0.644,108.765,124813,4
+634,Luis de Milan,Luis de Milan: Pavane IV,7CZ7yCBKaeS7Vt4vGVMwxi,1,0.682,0.0262,1,-27.696,1,0.0504,0.992,0.957,0.113,0.543,67.887,58533,4
+635,Noor Jehan,Alam Par Alam Aur Sitam Par Sitam,7CgLDyLqdPPRMhTnXtLQrl,0,0.394,0.115,5,-18.025,0,0.0424,0.992,0.841,0.128,0.368,66.886,190354,3
+636,The Meltones,White Christmas,7E0KaPMjaU0f6MgH8DKeMh,4,0.409,0.263,5,-10.08,1,0.0258,0.905,0.000647,0.272,0.225,84.126,193373,4
+637,Master Ebrahim,Zara Samne To Aao Chhaliye - Instrumental,7FDFbAtJtAe4atP3qsSIQj,0,0.397,0.324,0,-10.355,0,0.0419,0.958,0.952,0.225,0.688,64.796,203417,5
+638,Amirbai Karnataki,Baal Hai Bikhare Huye,7HpguHpLxd1mtIcpBasKAO,0,0.444,0.23,4,-9.744,1,0.0432,0.993,0.591,0.129,0.359,87.282,206367,4
+639,Rajkumari,"Jo Ham Pe Guzarti Hai (From ""Panna"")",7I2ruUPSZlvX3WGPwGFkqq,0,0.712,0.19,6,-17.835,1,0.257,0.995,0.911,0.123,0.757,129.02,175163,5
+640,Francisco Canaro,Como Pelea de Novios - Remasterizado,7IOf4ZmpVRzOSoNsJFNHCM,0,0.651,0.204,0,-14.741,0,0.208,0.989,0.501,0.147,0.927,106.14,163200,4
+641,Shamshad Begum,Apne Balam Se Mil Ke Aai,7ItJdq82LLHpbAc1uvW5ne,0,0.701,0.621,11,-7.179,0,0.416,0.993,0.813,0.399,0.795,127.14,154624,4
+642,George Gershwin,"Second Rhapsody for Piano & Orchestra ""Rhapsody in Rivets""",7LKCZhw1KovcQly7aFSUyj,1,0.279,0.33,5,-16.146,1,0.0355,0.922,0.898,0.286,0.162,151.689,810693,4
+643,Manju,Jhoothe Hain Sab Sapne Suhane,7Lrd916Iq3gZPinXnhkDbD,0,0.664,0.316,8,-9.912,1,0.061,0.983,0.0534,0.368,0.868,91.134,160933,4
+644,M. K. Thyagaraja Bhagavathar,Krishna Mugundha,7aNRZbRNOOolWOc7EsPR2S,0,0.577,0.507,11,-8.787,1,0.0504,0.976,0.821,0.205,0.633,101.23,196027,4
+645,Carolina Cardoso de Menezes,Carinhoso,7b7VpG2OzkPaVuFBnN83tS,0,0.618,0.46,1,-10.819,1,0.0398,0.896,0.814,0.173,0.918,82.109,158938,4
+646,Leela Chitnis,Do Aise Vardaan Prabhu,7c6uLVjMahYlrx7Ge9kL1f,0,0.391,0.225,2,-14.312,1,0.0865,0.991,0.495,0.128,0.539,63.823,188867,4
+647,Kajjan,Kukat Koyelia Kunjan Mein,7cNmRxVnfWymzDLLxnUrxz,0,0.557,0.142,4,-13.781,1,0.287,0.995,0.658,0.25,0.715,68.747,207163,4
+648,Francisco Tárrega,Francisco Tárrega: Minuet,7dO02Z76B56oWHV1OJFGoQ,1,0.45,0.0444,3,-26.399,1,0.0646,0.995,0.941,0.115,0.396,134.556,113499,4
+649,Francisco Canaro,¿Que Tal? - Remasterizado,7djuGZvyOeMxvB3a3mmLux,0,0.686,0.429,2,-10.195,0,0.162,0.981,0.392,0.179,0.865,125.736,181200,4
+650,Ludwig van Beethoven,"Fidelio, Op. 72 (Highlights): Du schlossest auf des Edlen Grab",7enENrEgDmDIfikBoaqQSp,0,0.185,0.27,5,-17.627,1,0.0384,0.986,0.268,0.163,0.171,82.203,230933,5
+651,Francisco Canaro,Serenata - Remasterizado,7f3GCpkCVUADUb8MI1i2AR,0,0.489,0.491,7,-10.2,0,0.124,0.958,0.865,0.319,0.868,103.558,161600,4
+652,Francisco Canaro,Queja Indiana - Remasterizado,7g3DOz3sPnULi1Ls2YcrbI,0,0.631,0.0781,7,-14.189,1,0.106,0.978,0.475,0.0985,0.619,125.901,173747,4
+653,Francisco Canaro,Que Me Quiten Lo Bailao - Remasterizado,7jCSCnccJUifKBoAmn1xy6,0,0.623,0.201,7,-12.186,1,0.0703,0.866,0.092,0.12,0.708,130.298,203400,4
+654,Talat Mahmood,Aaja Tujhe Mohabbat Awaaz De Rahi,7jHYfNBZFxyrpecENie6YX,0,0.263,0.382,2,-11.027,1,0.0336,0.881,0.883,0.363,0.645,109.874,193571,4
+655,Shyam Kumar,Bekhabar Jaag Zara,7jHyBmUPC9gsCerwhrELK0,0,0.781,0.515,8,-11.024,0,0.0609,0.822,0.0443,0.126,0.736,116.929,181573,4
+656,P. U. Chinnappa,Yengey Selluvaen Iraiva,7jfNSK6uUgc3DjEYnL13PL,0,0.591,0.194,5,-13.032,1,0.19,0.993,0.907,0.108,0.521,109.744,96827,5
+657,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Was hast du denn? - Live",7kIH6R7ynCNVJSLlaW4Z1z,0,0.384,0.175,4,-20.163,0,0.0684,0.956,1.34e-06,0.259,0.189,130.362,418267,3
+658,George Gershwin,"3 Preludes: No. 2, Andante con moto e poco rubato",7lDehpNemTceyuRhQQznrq,1,0.383,0.0142,1,-29.103,1,0.0565,0.995,0.915,0.0958,0.103,86.113,193800,4
+659,Francisco Canaro,Su Carta No Llego - Remasterizado,7lLdWWE0b1130nBxx01rjm,0,0.522,0.398,0,-7.19,1,0.049,0.966,0.645,0.384,0.607,126.527,154800,4
+660,Kaushalya,Kuchh Bol Bol Panchhi,7luB3oWqGB2tB4IJPjlwBt,0,0.445,0.267,10,-13.531,1,0.0517,0.994,0.914,0.462,0.631,74.366,196267,4
+661,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine kleine Nachtmusik"": II. Romanze",7n6nF4GjLiYsVcHLlMCLt9,1,0.314,0.114,0,-19.769,1,0.0424,0.923,0.0931,0.174,0.322,136.224,340867,4
+662,George Gershwin,"3 Preludes: No. 3, Allegro ben ritmato e deciso",7naNa6IdTNN0vzaDqYDPl5,0,0.411,0.127,8,-20.466,0,0.0364,0.995,0.836,0.114,0.688,118.635,62600,4
+663,Shankar Rao Vyas,Chalo Chale Hum Janseva Mein,7nnwIfGifnrF0tfxfKKVZP,0,0.659,0.42,3,-10.413,1,0.272,0.995,0.579,0.13,0.87,96.452,201311,4
+664,Manju,Aai Aai Musibat Aai,7oZQgKAlyOV5ZG6n7tf9R6,0,0.658,0.246,3,-11.161,1,0.0405,0.987,0.0,0.189,0.771,111.336,173993,4
+665,Sushila Rani,Maa Kisne Diya Bujhaya,7obzPb3AFBhR9B3USNBc05,0,0.552,0.167,2,-13.658,1,0.0545,0.991,0.875,0.192,0.508,96.491,192853,4
+666,Khursheed,Mohabbat Me Sara Jaha,7pno4F4a8V71FWXWPWv7wW,0,0.523,0.0806,3,-15.869,0,0.0807,0.993,0.911,0.111,0.443,140.544,169182,3
+667,Hallé,Symphony No. 3 in C Major: I. Lento Moderato - Allegro Moderato,7rMWY8Zmp435cZzSbGV7s5,0,0.204,0.113,5,-19.017,0,0.041,0.962,0.942,0.0697,0.0341,129.396,1079800,4
+668,Isaura Garcia,Dura Nega,7sBcmEpdsJdPkBNLd3T5T5,0,0.621,0.22,9,-13.07,0,0.0511,0.992,0.305,0.142,0.596,89.814,168040,4
+669,Amirbai Karnataki,Milke Bichhad Gai Ankhiyan,7tHWWOYRC9wQ3D8Z6CkbPM,1,0.692,0.236,0,-13.623,1,0.0568,0.906,0.00022,0.113,0.948,150.931,140573,3
+670,M. K. Thyagaraja Bhagavathar,Annaiyum Thanthaiyum,7toj8RxMbW2pDs2fNHbj60,0,0.403,0.401,9,-11.27,1,0.114,0.944,0.234,0.331,0.83,175.461,197547,4
+671,Shamshad Begum,Ho Gori Pyar Bhara Dil,7utyOgeQMzmcGgEYixUbKo,0,0.859,0.254,8,-11.092,0,0.557,0.995,0.913,0.147,0.538,125.853,157306,4
+672,Rina Celi,Triste Mar - Remastered,7vLkLWnK5XjEZaOuv5W0pP,0,0.277,0.421,7,-9.227,0,0.0309,0.877,0.00441,0.501,0.46,85.543,188488,5
+673,Umm Kulthum,Fe Nor Mohyak,7ww9xzCUHlPDmNrsXcaLmR,0,0.397,0.104,6,-15.727,1,0.0574,0.993,0.247,0.274,0.622,69.913,235926,3
+674,Richard Strauss,"Arabella, Op.79, TrV 263 / Act 1: Aber der Richtige, wenn's einen gibt für mich - Live",7x3Hy2Bs06KJIii1sx0hvj,0,0.283,0.188,5,-21.135,1,0.0449,0.958,0.0,0.694,0.128,94.308,320667,4
+675,Zohrabai Ambalawali,Bura Na Mano,7y2EQ1QlKoJfBKOwRWDIoB,0,0.821,0.284,1,-8.922,1,0.466,0.994,0.738,0.171,0.894,98.071,165883,3
+676,Sitara,Chupke Chupke Mere Dil Mein,7yKJFSgBkEv2VhLHqNSZCO,0,0.547,0.298,2,-12.335,1,0.0788,0.994,0.00402,0.516,0.963,73.735,151719,4
+677,Leela Bai,Aap Pita Ya Putra Hai,7yhuqSfraEWavWK3r4P3EO,0,0.585,0.375,10,-11.809,0,0.046,0.994,0.283,0.593,0.657,76.645,168670,3
+678,Master Ebrahim,Gore Gore O Banke Chhore - Instrumental,7z7F4mdjpncIvGIjD3xCWI,0,0.67,0.379,6,-11.471,1,0.0728,0.793,0.905,0.182,0.961,129.522,179600,4
+679,Zohrabai Ambalawali,Sajanwa Preet Ki Reet Nibha,7zFuZy68ahycT1ym6gzVeQ,0,0.419,0.241,8,-9.811,1,0.0923,0.993,0.416,0.137,0.472,73.726,191118,4
+680,"Henry ""Red"" Allen",Swing Out,01k8FqyXOpyCziR6SJKXgr,0,0.76,0.381,5,-13.749,1,0.0424,0.994,0.921,0.105,0.967,114.391,197834,4
+681,"Henry ""Red"" Allen",Make a Country Bird Fly Wild,03Ivljfpfs1X0ziCmIq7G9,0,0.786,0.285,5,-12.559,1,0.0437,0.992,0.812,0.0804,0.934,109.827,206774,4
+682,Jean-Philippe Rameau,Minuetto,07I0SVoDiIz2U8rJq1vAgG,0,0.629,0.0649,11,-24.904,1,0.0398,0.995,0.926,0.0921,0.421,81.443,101653,4
+683,Johann Sebastian Bach,"Courante, BWV 1009",0BpqDUaT4FaLihE9791pqq,0,0.362,0.108,9,-25.842,1,0.048,0.993,0.916,0.111,0.724,102.002,165333,1
+684,Mario Castelnuovo-Tedesco,Concerto - No. 3,0QKWSx3yJ5uop7Pq9RpAaP,0,0.506,0.101,2,-28.362,0,0.0462,0.934,0.88,0.11,0.234,119.143,377649,4
+685,Jimmy Dorsey & His Orchestra,Opening Music of Four Jills in a Jeep,0g4t72vFKlKHjcfTQe4yUl,0,0.271,0.844,10,-9.815,1,0.21,0.984,0.88,0.8,0.58,128.626,130496,4
+686,"Henry ""Red"" Allen","Someday, Sweetheart",0upc7CbPeN4tuJSfeYiP23,0,0.588,0.205,5,-14.579,0,0.0767,0.994,0.794,0.118,0.665,115.469,177447,4
+687,"Henry ""Red"" Allen",I Wish I Could Shimmy Like My Sister Kate,13a2QLBnERULuT0ZiRRxRf,0,0.595,0.313,3,-11.286,1,0.139,0.992,0.924,0.112,0.816,166.176,164746,4
+688,Jimmy Dorsey & His Orchestra,No Love No Nothing,15cqYbx20245FH0fnVbXzg,0,0.466,0.638,9,-11.589,1,0.483,0.991,0.107,0.73,0.352,87.531,168345,4
+689,"Henry ""Red"" Allen",Biff'ly Blues,1BsLyehjX37bW2feoUQtwj,0,0.749,0.0788,2,-15.779,0,0.0547,0.99,0.639,0.14,0.524,103.45,206193,4
+690,Betty Grable,Cuddle Up a Little Closer,1KxAKfSRuxT29kHx002BXG,0,0.384,0.41,6,-13.297,1,0.0869,0.992,0.843,0.525,0.528,69.358,176936,4
+691,"Henry ""Red"" Allen",Hush My Mouth (If I Ain't Goin' South),1fy5iMaRk2anExTljse1Bl,0,0.568,0.283,0,-13.315,1,0.0946,0.98,0.178,0.217,0.815,171.529,181278,4
+692,Johann Sebastian Bach,"Gavotte, BWV 1006",1g3PeNeK1ag0sxjcRYOHiX,0,0.557,0.0892,4,-20.964,1,0.061,0.994,0.946,0.116,0.817,111.47,173560,1
+693,"Henry ""Red"" Allen",Everybody Shout,1hTeFAirfDOUJj6TZN41ew,0,0.526,0.437,10,-11.028,1,0.0621,0.911,0.924,0.0545,0.968,207.859,147586,3
+694,Isaac Albéniz,Granada,1ufso27MIuvGo6xhng2n11,0,0.54,0.067,3,-22.547,1,0.0499,0.994,0.924,0.139,0.265,128.893,260533,3
+695,Johann Sebastian Bach,"Sarabande, BWV 996",20fA5tT1876ydmacoThyx8,0,0.582,0.0116,4,-23.91,0,0.0592,0.995,0.93,0.0872,0.262,80.304,205707,4
+696,"Henry ""Red"" Allen",Pleasin' Paul,24o28dUle78RxLqxxi3B8J,0,0.738,0.201,0,-10.936,1,0.0487,0.992,0.87,0.0838,0.916,75.605,174243,4
+697,Johann Sebastian Bach,"Bourrée, BWV 996",2uQYKXz807grWYDuBsylIT,0,0.615,0.176,2,-21.072,1,0.0796,0.991,0.931,0.0922,0.742,74.772,89160,4
+698,Enrique Granados,Dance No.5,3LhixNblpzmQ5R9092vjCa,0,0.439,0.0439,3,-22.469,0,0.0455,0.993,0.94,0.108,0.279,88.569,234667,4
+699,Mario Castelnuovo-Tedesco,Tarantella,3RUqjENGc5fYaqDvLX2sPe,0,0.404,0.0253,4,-35.112,0,0.0383,0.994,0.9,0.0787,0.3,74.321,232693,4
+700,"Henry ""Red"" Allen",It Should Be You,3VdzbGGd61vlNGyxzssreI,0,0.803,0.389,8,-11.215,1,0.0807,0.983,0.919,0.203,0.962,123.675,190032,4
+701,Bando Da Luna,"I, Yi, Yi, Yi, Yi I Like You Very Much",3aAVHQAJgDiVoaYqt8Px6f,0,0.71,0.549,11,-10.2,1,0.158,0.991,0.817,0.269,0.961,127.806,135569,4
+702,"Henry ""Red"" Allen",Funny Feathers Blues,3aKaD1JepbFClRmy5YAF4f,0,0.565,0.189,2,-12.976,0,0.0487,0.991,0.228,0.0598,0.819,158.992,178445,4
+703,"Henry ""Red"" Allen",Sugar Hill Function,3r3zx9emZCMiDcblz4S6xi,0,0.715,0.527,3,-9.522,1,0.0401,0.94,0.88,0.0691,0.944,115.74,183159,4
+704,Franz Joseph Haydn,Andante,48M03f7Al1LIniZikjiJaE,0,0.516,0.011,1,-27.784,1,0.0598,0.995,0.894,0.0913,0.352,83.362,183827,3
+705,"Henry ""Red"" Allen",Shadows On the Swanee,4AWjQWxvL89GzzzstRAHEz,0,0.847,0.218,5,-13.996,1,0.12,0.986,0.777,0.129,0.704,113.959,164165,4
+706,Johann Sebastian Bach,Chaconne,4DdgT5YT7T3noeGUgakiVm,0,0.467,0.104,2,-22.57,1,0.0559,0.992,0.934,0.081,0.365,76.72,736073,4
+707,"Henry ""Red"" Allen",Patrol Wagon Blues,4EMZse1pvLhZP214jjTIGR,0,0.635,0.148,7,-11.141,0,0.0723,0.988,0.144,0.147,0.307,104.212,202060,4
+708,Jimmy Dorsey & His Orchestra,You'll Have to Swing It (Mr. Paganini),4EjrZLVV5DAb7XeJbnvu43,0,0.326,0.374,6,-12.16,0,0.0669,0.992,0.596,0.663,0.474,84.344,208889,3
+709,Niccolò Paganini,Romanza,4Q4ZLYvKTDsj3tzw2y22nR,0,0.353,0.0231,3,-29.523,1,0.0395,0.993,0.927,0.0943,0.25,68.256,184366,4
+710,Enrique Granados,Dance No.10,4Ug7a2NPuJcvZu0mlLJCO6,0,0.301,0.125,6,-24.128,1,0.0474,0.991,0.916,0.102,0.603,78.081,238493,4
+711,Johann Sebastian Bach,"Gavotte, BWV 1012",4ac4cegcJ21nkr7s4GoWDE,0,0.613,0.12,4,-19.598,1,0.0755,0.994,0.881,0.122,0.483,75.241,229373,4
+712,Johann Sebastian Bach,"Prelude, BWV 999",4bAmdFyLMaiWqKdq4VT2mL,0,0.253,0.0676,3,-29.299,0,0.0435,0.97,0.914,0.108,0.652,103.324,87907,3
+713,Enrique Granados,Tonadilla,4oGNCY1FkBGpT6Mf5ElDQx,0,0.515,0.0525,6,-22.363,1,0.0508,0.993,0.905,0.0959,0.433,176.734,256773,3
+714,Franz Joseph Haydn,Minuet,4rKcg0jyoSxqQhBHIkYF0z,0,0.54,0.039,8,-27.63,1,0.0648,0.995,0.861,0.104,0.794,185.408,185507,3
+715,Mario Castelnuovo-Tedesco,Concerto - No. 1,4tA4KFt7D99b0leKnfagQi,0,0.554,0.143,7,-23.939,1,0.043,0.94,0.909,0.111,0.314,117.265,375893,4
+716,"Henry ""Red"" Allen",Dancing Dave,4tfpC86zCfM6jsHdYFLPjm,0,0.738,0.183,3,-10.824,1,0.0495,0.984,0.478,0.263,0.547,108.359,191843,4
+717,"Henry ""Red"" Allen",Ain'tcha Got Music,4u8UrwIAMWdtX0f7t2xj4T,0,0.644,0.415,5,-10.681,1,0.12,0.976,0.119,0.0756,0.906,209.403,168438,4
+718,Mario Castelnuovo-Tedesco,Concerto - No. 2,4y1r7kg5Jh3iZEX2u2tv1d,0,0.22,0.0497,8,-28.26,1,0.0515,0.939,0.952,0.115,0.0672,53.351,394920,4
+719,Isaac Albéniz,Sevilla,5AHoDoMfXlciY8JzZLiHvH,0,0.514,0.148,6,-22.739,1,0.0409,0.989,0.923,0.103,0.416,121.748,252933,3
+720,Alice Faye,You'll Never Know,5BlrALYRi4AuyJEIwjE9Fu,0,0.287,0.291,9,-13.499,1,0.0414,0.984,0.59,0.644,0.376,94.585,171270,4
+721,Jimmy Dorsey & His Orchestra,Boogie Woogie,5q5bp4T7Gho3BZRAydJSFf,0,0.36,0.818,1,-9.78,0,0.0736,0.967,0.736,0.88,0.806,95.069,58813,4
+722,"Henry ""Red"" Allen",The River's Takin' Care of Me,5qWZstBnir7SRYWTKOnYVm,0,0.696,0.258,7,-13.315,1,0.0499,0.952,0.00221,0.0924,0.775,116.997,160102,4
+723,Johann Sebastian Bach,"Fugue, BWV 1001",5ye0rSMpvTbLeSJ8B1ZkdT,0,0.458,0.0483,10,-26.224,0,0.0475,0.975,0.857,0.107,0.618,88.147,265667,4
+724,"Henry ""Red"" Allen",Roamin',65EN7wuZwAd4wSfH03lqL0,0,0.561,0.145,0,-10.163,1,0.0375,0.986,0.363,0.271,0.319,116.658,219243,4
+725,Jimmy Dorsey & His Orchestra,Ohio,6CilewdttARfQIGugVzC5E,0,0.493,0.705,4,-10.323,1,0.331,0.977,0.805,0.886,0.882,121.348,109377,4
+726,Jimmy Dorsey & His Orchestra,The Champ,6NHjXES0aqEU6eEhgEAo67,0,0.425,0.823,3,-8.959,0,0.144,0.969,0.811,0.82,0.818,126.66,189053,4
+727,"Henry ""Red"" Allen","You Might Get Better, But You'll Never Get Well",6aCCVRQ2D2DtHLCMHrwWj1,0,0.476,0.287,0,-12.594,1,0.0603,0.976,0.0418,0.157,0.779,192.735,187501,4
+728,Jimmy Dorsey & His Orchestra,The Caissons Go Rolling Along (Finale),6gUzGZwcuNN4svtDZtt3hF,0,0.362,0.906,2,-10.835,1,0.455,0.992,0.847,0.445,0.367,128.334,47965,4
+729,Isaac Albéniz,Torre Bermeja,6lkd5naCI5MQQGbEnfHTRU,0,0.456,0.123,1,-19.692,1,0.0346,0.989,0.892,0.11,0.688,78.805,227373,4
+730,"Henry ""Red"" Allen",I Fell in Love With You,6sdOVq7LMU7yLqtoPaobym,0,0.856,0.283,5,-10.75,1,0.0447,0.985,0.632,0.0526,0.905,99.852,210419,4
+731,"Henry ""Red"" Allen",How Do They Do It That Way?,6w7VtFoTX1X50svey8umIS,0,0.61,0.192,3,-13.102,1,0.0567,0.993,0.246,0.253,0.775,135.876,199901,4
+732,Dick Haymes,You Send Me,76UTKgpq3VnKkWFS0WSLov,0,0.215,0.286,2,-13.428,0,0.0392,0.982,0.848,0.888,0.283,89.246,165133,3
+733,Dick Haymes,How Blue the Night,7A2jwWyhDU8LtGhliS3uyj,0,0.251,0.378,4,-14.413,1,0.0554,0.976,0.895,0.278,0.284,131.703,319907,4
+734,"Henry ""Red"" Allen",Feeling Drowsy,7ciWKFXUamRQMpFhNxyNxq,0,0.681,0.129,3,-12.215,1,0.0599,0.993,0.915,0.118,0.626,120.759,217014,4
+735,Dick Haymes,How Many Times Do I Have to Tell You?,7kSy9yCRCPVuYsROHw14I4,0,0.323,0.428,4,-13.839,1,0.0681,0.99,0.947,0.37,0.467,117.794,175043,4
+736,"Henry ""Red"" Allen",Singing Pretty Songs,7niB4DMDJOF9bZX4Kgez7P,0,0.819,0.534,3,-8.941,1,0.0399,0.963,0.943,0.139,0.837,104.795,199808,4
+737,Carole Landis,Crazy Me,7obqQDPffdyZBHFdWKI3Ts,0,0.246,0.602,10,-11.78,1,0.199,0.99,0.888,0.733,0.686,87.698,172542,4
+738,"Henry ""Red"" Allen",Stringin' Along a Shoe String,7vPQBq36Bs8xfMVG2ZJ9Ei,0,0.662,0.341,0,-11.77,1,0.162,0.971,0.045,0.0767,0.763,149.542,167532,4
