@@ -1,24 +1,37 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from "react";
+import "./App.css";
+import axios from "axios";
+
+import LandingPage from "./components/LandingPage";
+import ProfilePage from "./components/ProfilePage";
+
+// TEMP FAKE DATA
+
+const fakeData = [
+  { artist: "Jimmy Hendrix", mood: "Rock-Out" },
+  { artist: "DeadMau5", mood: "Rave" },
+  { artist: "Beetles", mood: "Classic" },
+  { artist: "Guns N Roses", mood: "Rock-Out" },
+  { artist: "Ramova", mood: "Hip - Hop" }
+];
+
+// TEMP FAKE DATA
 
 function App() {
+  const initialData = [];
+  const [spotifyData, setSpotifyData] = useState(initialData);
+
+  const initiateAxios = () => {
+    axios
+      .get()
+      .then(res => console.log("apiData ", res))
+      .catch(err => console.log("ERROR ", err));
+  };
+  // useEffect(initiateAxios, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ProfilePage fakeData={fakeData} />
     </div>
   );
 }
