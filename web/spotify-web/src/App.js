@@ -3,7 +3,13 @@ import "./App.css";
 import axios from "axios";
 
 import LandingPage from "./components/LandingPage";
-import ProfilePage from "./components/ProfilePage";
+// import ProfilePage from "./components/ProfilePage/ProfilePage";
+import AccountCreate from "./components/AccountCreate/AccountCreate";
+import PasswordCreate from "./components/AccountCreate/PasswordCreate";
+import Login from "./components/Login/Login";
+import Profile from "./components/ProfilePage/Profile";
+import NavBar from "./components/Elements/NavBar/NavBar";
+
 
 // TEMP FAKE DATA
 
@@ -31,7 +37,14 @@ function App() {
 
   return (
     <div className="App">
-      <ProfilePage fakeData={fakeData} />
+      {/* <ProfilePage fakeData={fakeData} /> */}
+      {/* <LandingPage/> */}
+      {/* <AccountCreate /> */}
+      {/* <PasswordCreate /> */}
+      {/* <Login /> */}
+      <Profile fakeData={fakeData}/>
+      <NavBar/>
+
     </div>
   );
 }
