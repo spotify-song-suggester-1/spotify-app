@@ -1,6 +1,6 @@
 import React from "react";
-import Cards from "./parts/Cards";
-import { CardBase, VerticalAlign, HorizontalAlign } from "../styles/styles";
+import Cards from "../Elements/Cards";
+import { VerticalAlign, HorizontalAlign, CardBase} from "../../styles"
 
 const ProfilePage = props => {
   console.log("%cInside Profile Page", "color:orange", props.fakeData);
