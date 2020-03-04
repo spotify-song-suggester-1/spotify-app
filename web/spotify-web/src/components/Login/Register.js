@@ -1,8 +1,7 @@
 import React from 'react';
 import axiosWithAuth from "../../utils/axiosWithAuth";
-import { VerticalAlign } from '../../styles/styles';
 
-const Login = (props) => {
+const Register = (props) => {
 
     const [form, setForm] = React.useState({ username: "", password: "" }); 
 
@@ -10,25 +9,24 @@ const Login = (props) => {
         setForm({...form, [e.target.name]: e.target.value});
     }
 
-    const login = e => {
+    const register = e => {
         e.preventDefault(); 
         axiosWithAuth()
-            .post("/api/auth/login", form) 
+            .post("/api/auth/register", form) 
             .then(res => {
-                console.log("LOGIN", res);
+                console.log("REG", res);
                 localStorage.setItem("token", res.data.payload);
-                props.history.push("/");
+                props.history.push("/login");
             })
             .catch(error => {
                 console.log(error.response)
-                alert("Incorrect Log In Information")
+                alert("Woops")
                 setForm({ username: "", password: "" }); 
          });
     };
     return(
         <>
-        <VerticalAlign>
-        <form onSubmit={login}>
+        <form onSubmit={register}>
           <input 
             type="text" 
             placeholder="username"
@@ -43,11 +41,10 @@ const Login = (props) => {
             onChange={handleChanges}
             value={form.password}
           />
-          <button type="submit">LOG IN</button>
+          <button type="submit">REGISTER</button>
       </form>
-        </VerticalAlign>
         </>
     )
 }
 
-export default Login;
+export default Register;

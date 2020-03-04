@@ -6,7 +6,7 @@ export default function axiosWithAuth() {
     return axios.create({
         baseURL: "",
         headers: {
-            Authorization: token
+            Authorization: token,
         }
     })
 }

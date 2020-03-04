@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import PrivateRoute from "./components/PrivateRoute";
 import "./App.css";
 import axios from "axios";
 
@@ -8,7 +10,9 @@ import AccountCreate from "./components/AccountCreate/AccountCreate";
 import PasswordCreate from "./components/AccountCreate/PasswordCreate";
 import Login from "./components/Login/Login";
 import Profile from "./components/ProfilePage/Profile";
+import Register from "./components/Login/Register";
 import NavBar from "./components/Elements/NavBar/NavBar";
+import SavedSongs from "./components/SavedSongs";
 
 
 // TEMP FAKE DATA
@@ -37,14 +41,21 @@ function App() {
 
   return (
     <div className="App">
+      <Router>
       {/* <ProfilePage fakeData={fakeData} /> */}
       {/* <LandingPage/> */}
       {/* <AccountCreate /> */}
       {/* <PasswordCreate /> */}
       {/* <Login /> */}
-      <Profile fakeData={fakeData}/>
-      <NavBar/>
 
+      {/* <Profile fakeData={fakeData}/> */}
+      <NavBar/>
+      <Route exact path="/login" component={Login} />
+      <Route exact path="/register" component={Register} />
+      <PrivateRoute exact path="/Profile" component={Profile}/>
+      <Route path="/savedsongs" component={SavedSongs} />
+
+      </Router>
     </div>
   );
 }
