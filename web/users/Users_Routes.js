@@ -1,38 +1,34 @@
 const server = require('express');
+const Users = require('../database/db-helpers.js');
+
 
 const router = server.Router();
 
 router.get('/',(req, res)=> {
-    const users = [
-
-        {
-            id:1,
-            name:"Jose Alcado",
-            email:"jose@gmail.com",
-            password: "1234"
-        },
-        {
-            id:2,
-            name:"Shawn Quirtz",
-            email: "shawn@gmail.com",
-            password: "1234"
-        },
-        {
-            id:3,
-            name:"Amy Whiney",
-            email:"amy@gmail.com",
-            password: "1234"
-        }
-        
-    ];
    
-    res.status(200).json(users);
+   Users.find()
+   .then(users => {
+       res.json(users);
+   })
+   .catch(err => {
+        res.status(500).json({err: 'failed to get users'})
+   });
 });
 
 
 router.get('/:id', (req, res) => {
-    const id = req.params.id;
-    res.status(200).send(`hello from GET /${id}users endpoint`)
+   const {id} = req.params;
+
+   Users.findById(id)
+        .then(user => {
+            if(user){
+                res.json(user)
+            } else {
+                res.status(404).json({err: 'Invalid User id'})}
+        })
+        .catch(err => {
+            res.status(500).json({err: 'failed to get user with given id'})
+        })
 });
 
 router.post('/', (req, res) => {
