@@ -3,16 +3,9 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import PrivateRoute from "./components/PrivateRoute";
 import "./App.css";
 import axios from "axios";
+import ProfileAxios from "./components/ProfilePage/ProfileAxios";
 
-import LandingPage from "./components/LandingPage";
-// import ProfilePage from "./components/ProfilePage/ProfilePage";
-import AccountCreate from "./components/AccountCreate/AccountCreate";
-import PasswordCreate from "./components/AccountCreate/PasswordCreate";
-import Login from "./components/Login/Login";
-import Profile from "./components/ProfilePage/Profile";
-import Register from "./components/Login/Register";
-import NavBar from "./components/Elements/NavBar/NavBar";
-import SavedSongs from "./components/SavedSongs";
+
 
 
 // TEMP FAKE DATA
@@ -28,34 +21,20 @@ const fakeData = [
 // TEMP FAKE DATA
 
 function App() {
-  const initialData = [];
-  const [spotifyData, setSpotifyData] = useState(initialData);
-
-  const initiateAxios = () => {
-    axios
-      .get()
-      .then(res => console.log("apiData ", res))
-      .catch(err => console.log("ERROR ", err));
-  };
-  // useEffect(initiateAxios, []);
 
   return (
     <div className="App">
-      <Router>
-      {/* <ProfilePage fakeData={fakeData} /> */}
-      {/* <LandingPage/> */}
-      {/* <AccountCreate /> */}
-      {/* <PasswordCreate /> */}
-      {/* <Login /> */}
-
-      {/* <Profile fakeData={fakeData}/> */}
+      {/* <Router>
       <NavBar/>
       <Route exact path="/login" component={Login} />
       <Route exact path="/register" component={Register} />
-      <PrivateRoute exact path="/Profile" component={Profile}/>
+      <PrivateRoute exact path="/Profile" component={ProfileAxios}/>
       <Route path="/savedsongs" component={SavedSongs} />
 
-      </Router>
+      </Router> */}
+
+      <ProfileAxios/>
+
     </div>
   );
 }

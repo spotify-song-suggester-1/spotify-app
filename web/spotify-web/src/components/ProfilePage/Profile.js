@@ -1,26 +1,17 @@
 import React from "react";
-import CardMaps from "./CardMaps";
-import { VerticalAlign, HorizontalAlign } from "../../styles/styles";
+import { DiscoverCard, MainTitle, Subtext, SectionText } from "./ProfileStyles";
+import GenreCards from "./Genre/GenreCards";
 
-const Profile = props => {
-  console.log("IN-Profile", props);
+const Profile = () => {
   return (
     <>
-    <h1>Discover</h1>
-      <VerticalAlign>
-        <h1>Browse</h1>
-        <HorizontalAlign>
-          <CardMaps content={props.fakeData} subject="mood" />
-        </HorizontalAlign>
-        <h1>Recent</h1>
-        <HorizontalAlign>
-          <CardMaps content={props.fakeData} subject="artist" />
-        </HorizontalAlign>
-        <h1>Made For You</h1>
-        <HorizontalAlign>
-          <CardMaps content={props.fakeData} subject="mood" />
-        </HorizontalAlign>
-      </VerticalAlign>
+      <DiscoverCard>
+        <MainTitle>Discover</MainTitle>
+        <Subtext>Better song suggestions</Subtext>
+      </DiscoverCard>
+
+      <SectionText>Genre</SectionText>
+      <GenreCards />
     </>
   );
 };

@@ -19,5 +19,14 @@ export const VerticalAlign = styled.div`
 `;
 
 export const HorizontalAlign = styled.div`
+  margin: 0 auto;
   display: flex;
+  overflow-x: scroll;
+  width: 95vw;
+`;
+
+export const ScrollInner = styled.div`
+  display: flex;
+  white-space: nowrap;
+  align-content: space-between;
 `;
