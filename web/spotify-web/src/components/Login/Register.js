@@ -3,7 +3,7 @@ import axiosWithAuth from "../../utils/axiosWithAuth";
 
 const Register = (props) => {
 
-    const [form, setForm] = React.useState({ username: "", password: "" }); 
+    const [form, setForm] = React.useState({ username: "", password: "", email: "" }); 
 
     const handleChanges = e => {
         setForm({...form, [e.target.name]: e.target.value});
@@ -21,7 +21,7 @@ const Register = (props) => {
             .catch(error => {
                 console.log(error.response)
                 alert("Woops")
-                setForm({ username: "", password: "" }); 
+                setForm({ username: "", password: "", email: "" }); 
          });
     };
     return(
@@ -40,6 +40,13 @@ const Register = (props) => {
             name="password" 
             onChange={handleChanges}
             value={form.password}
+          />
+           <input 
+            type="text"
+            placeholder="email"
+            name="email" 
+            onChange={handleChanges}
+            value={form.email}
           />
           <button type="submit">REGISTER</button>
       </form>

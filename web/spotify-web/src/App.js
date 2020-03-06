@@ -12,7 +12,8 @@ import Login from "./components/Login/Login";
 import Profile from "./components/ProfilePage/Profile";
 import Register from "./components/Login/Register";
 import NavBar from "./components/Elements/NavBar/NavBar";
-import SavedSongs from "./components/SavedSongs";
+// import SavedSongs from "./components/SavedSongs";
+import UserProfile from "./components/ProfilePage/UserProfile";
 
 
 // TEMP FAKE DATA
@@ -52,9 +53,8 @@ function App() {
       <NavBar/>
       <Route exact path="/login" component={Login} />
       <Route exact path="/register" component={Register} />
-      <PrivateRoute exact path="/Profile" component={Profile}/>
-      <Route path="/savedsongs" component={SavedSongs} />
-
+      {/* <PrivateRoute exact path="/UserProfile/:id" render={UserProfile}/> */}
+      <Route exact path="/users/:id" component={UserProfile}/>
       </Router>
     </div>
   );

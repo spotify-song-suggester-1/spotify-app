@@ -4,7 +4,7 @@ export default function axiosWithAuth() {
     const token = localStorage.getItem('token');
 
     return axios.create({
-        baseURL: "",
+        baseURL: "https://cors-anywhere.herokuapp.com/https://spotify-suggester-backend.herokuapp.com",
         headers: {
             Authorization: token,
         }

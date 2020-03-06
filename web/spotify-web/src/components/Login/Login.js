@@ -16,8 +16,9 @@ const Login = (props) => {
             .post("/api/auth/login", form) 
             .then(res => {
                 console.log("LOGIN", res);
-                localStorage.setItem("token", res.data.payload);
-                props.history.push("/");
+                localStorage.setItem("token", res.data.token);
+                localStorage.setItem("user_id", res.data.user_id)
+                props.history.push(`/users/${localStorage.getItem("user_id")}`);
             })
             .catch(error => {
                 console.log(error.response)
@@ -25,6 +26,9 @@ const Login = (props) => {
                 setForm({ username: "", password: "" }); 
          });
     };
+
+
+
     return(
         <>
         <VerticalAlign>

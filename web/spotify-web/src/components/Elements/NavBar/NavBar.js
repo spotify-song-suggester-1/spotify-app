@@ -1,13 +1,21 @@
 import React from 'react';
-import { NavLink } from "react-router-dom"
+import { Link, NavLink } from "react-router-dom"
 import { HorizontalAlign } from '../../../styles/styles';
 
 const NavBar = () => {
+
+    const [id, setId] = React.useState(localStorage.getItem("user_id"))
+
+    React.useEffect(() => {
+        setId(localStorage.getItem("user_id"))
+    }, [localStorage.getItem("user_id")])
+
     return(
         <HorizontalAlign>
-        <h1>Home</h1>
-        <NavLink path to="/savedsongs">SavedSongs</NavLink>
-        <h1>Settings</h1>
+        <NavLink path to="/">Home</NavLink>
+        <NavLink path to="/Login">Login</NavLink>
+        <NavLink path to="/Register">Register</NavLink>
+        <Link to='/users/${id}'></Link>
         </HorizontalAlign>
     )
 }
