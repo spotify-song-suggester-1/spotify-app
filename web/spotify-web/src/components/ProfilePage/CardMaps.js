@@ -6,8 +6,8 @@ const CardMaps = ({ content, subject, height, width, margin}) => {
     <>
       {content.map(element => (
           <Cards
+            key = {Date.now}
             content={element[subject]}
-            key={Date.now}
             cardHeight={height}
             cardWidth={width}
             margin={margin}

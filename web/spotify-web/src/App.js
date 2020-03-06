@@ -8,17 +8,6 @@ import ProfileAxios from "./components/ProfilePage/ProfileAxios";
 
 
 
-// TEMP FAKE DATA
-
-const fakeData = [
-  { artist: "Jimmy Hendrix", mood: "Rock-Out" },
-  { artist: "DeadMau5", mood: "Rave" },
-  { artist: "Beetles", mood: "Classic" },
-  { artist: "Guns N Roses", mood: "Rock-Out" },
-  { artist: "Ramova", mood: "Hip - Hop" }
-];
-
-// TEMP FAKE DATA
 
 function App() {
 

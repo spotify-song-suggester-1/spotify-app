@@ -6,7 +6,7 @@ const SearchItem = props => {
     console.log(props)
     return(
         <div>
-            <Item>
+            <Item key={props.resultData.trak_id}>
                 <SearchImg src={props.resultData.album_art}/>
                 {props.resultData.track_name}
             </Item>

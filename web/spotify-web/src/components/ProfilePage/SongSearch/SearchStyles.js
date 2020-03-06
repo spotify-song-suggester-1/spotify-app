@@ -2,16 +2,28 @@ import styled from "styled-components";
 
 export const ResDiv = styled.div `
     height: 40%;
+    margin: 0 auto;
     max-height:300px;
+    width:80%;
+    max-width: 550px;
     overflow-y: scroll;
 `;
 
 export const Item = styled.li`
+  display:flex;
   font-family: "Poppins", sans-serif;
   text-align: left;
+  
+  height:50px;
+  margin-bottom: 10px;
   color: white;
+  background-color:#0f363e;
+  border-bottom: #0a2429 1px solid;
   list-style:none;
+  overflow:hidden;
 `;
+
+
 
 export const SearchInput = styled.input`
     margin-top:20px;
