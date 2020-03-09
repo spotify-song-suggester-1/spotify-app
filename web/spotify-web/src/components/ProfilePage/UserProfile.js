@@ -3,8 +3,12 @@ import UserCard from "./UserCard";
 import axiosWithAuth from "../../utils/axiosWithAuth";
 
 const UserProfile = (props) => {
+    console.log("PROPS", props)
 
     const [users, setUsers] = React.useState({});
+    const [editing, setEditing] = React.useState(false);
+    const [nameToEdit, setNameToEdit] = React.useState( {username: users.username} );
+    console.log("NAMETOEDIT", nameToEdit);
 
     const id = localStorage.getItem("user_id");
 
@@ -14,6 +18,7 @@ const UserProfile = (props) => {
         .then(res => {
             console.log("HERE", res.data)
             setUsers(res.data);
+            setNameToEdit(res.data);
         })
         .catch(err => {
             console.log(err.response);
@@ -23,6 +28,25 @@ const UserProfile = (props) => {
     React.useEffect(() => {
         getUser();
     }, []);
+
+    const handleChange = event => {
+        setNameToEdit({...nameToEdit, username: event.target.value});
+    }
+
+    const editName = name => {
+        setEditing(true);
+        // nameToEdit(name.username);
+    }
+
+    const saveEdit = (e) => {
+        e.preventDefault();
+        axiosWithAuth()
+        .put(`/api/users/${nameToEdit.id}`, nameToEdit)
+        .then(res => {
+          setEditing(true)
+          getUser(res);
+        })
+    };
 
     const deleteNote = user => {
         axiosWithAuth()
@@ -41,12 +65,25 @@ const UserProfile = (props) => {
       }
 
     return (
-        <>
-            <h1> User Profile</h1>
-            <UserCard key={users.id} id={props.id} username={users.username} />
+        <div>
+            <h1>User Profile</h1>
+            <span onClick={editName}>
+            <UserCard key={users.id} id={props.id} username={users.username}/>
+            {editing && (
+                <form onSubmit={saveEdit}>
+                    <input
+                        type="text"
+                        value={nameToEdit.username}
+                        onChange={handleChange}
+                    />
+                    <button type="submit">Save</button>
+                    <button onClick={() => setEditing(false)}>cancel</button>
+                </form>
+            )}
+            </span>
             <button onClick={logout}>LogOut</button>
-            <button onClick={deleteNote}>Delete Note</button>
-        </>
+            <button onClick={deleteNote}>Delete Profile</button>
+        </div>
     )
 }
 
